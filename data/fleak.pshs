@@ -1,0 +1,3911 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Author</key>
+	<string>Bogdan Vladu</string>
+	<key>CreatedWith</key>
+	<string>SpriteHelper</string>
+	<key>ImportedImages</key>
+	<array>
+		<string>/Users/incisor/Programming/data/Fleak Data/fleak.png</string>
+	</array>
+	<key>ImportedImages-HD</key>
+	<array>
+		<string>/Users/incisor/Programming/data/Fleak Data/fleak.png</string>
+	</array>
+	<key>SPRITES_INFO</key>
+	<array>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array>
+					<array>
+						<string>{-139.055, 56.6772}</string>
+						<string>{-139.5, 49.2711}</string>
+						<string>{-134.663, 41.5315}</string>
+						<string>{-127.568, 33.147}</string>
+						<string>{-115.907, 29.0144}</string>
+						<string>{-114.514, 91.4321}</string>
+						<string>{-116.347, 90.5158}</string>
+						<string>{-138.016, 60.2392}</string>
+					</array>
+					<array>
+						<string>{139.887, -91.987}</string>
+						<string>{140.455, 89.1607}</string>
+						<string>{107.465, -24.359}</string>
+						<string>{112.215, -35.836}</string>
+					</array>
+					<array>
+						<string>{-139.055, 56.6772}</string>
+						<string>{-138.016, 60.2392}</string>
+						<string>{-139.339, 56.6882}</string>
+					</array>
+					<array>
+						<string>{107.465, -24.359}</string>
+						<string>{140.455, 89.1607}</string>
+						<string>{98.768, -12.485}</string>
+					</array>
+					<array>
+						<string>{88.265, -3.8841}</string>
+						<string>{98.768, -12.485}</string>
+						<string>{140.455, 89.1607}</string>
+						<string>{107.519, 89.7286}</string>
+					</array>
+					<array>
+						<string>{-137.726, 67.0076}</string>
+						<string>{-138.016, 60.2392}</string>
+						<string>{-116.347, 90.5158}</string>
+						<string>{-123.916, 87.5475}</string>
+						<string>{-130.298, 82.6499}</string>
+						<string>{-134.663, 77.6495}</string>
+					</array>
+					<array>
+						<string>{88.265, -3.8841}</string>
+						<string>{107.519, 89.7286}</string>
+						<string>{85.372, 90.8643}</string>
+						<string>{77.434, 3.4426}</string>
+					</array>
+					<array>
+						<string>{-101.868, 9.4307}</string>
+						<string>{-87.9218, 17.3998}</string>
+						<string>{-40.6924, 91.4321}</string>
+						<string>{-114.514, 91.4321}</string>
+						<string>{-115.907, 29.0144}</string>
+						<string>{-110.83, 20.0073}</string>
+					</array>
+					<array>
+						<string>{-76.9956, -4.7108}</string>
+						<string>{-69.8434, -1.9121}</string>
+						<string>{-63.935, 14.5692}</string>
+						<string>{-79.1724, 2.7524}</string>
+					</array>
+					<array>
+						<string>{-20.68, 22.8743}</string>
+						<string>{-3.782, 88.025}</string>
+						<string>{-30.471, 90.8643}</string>
+						<string>{-40.6924, 91.4321}</string>
+						<string>{-40.1119, 21.9186}</string>
+					</array>
+					<array>
+						<string>{-79.1724, 2.7524}</string>
+						<string>{-63.935, 14.5692}</string>
+						<string>{-87.9218, 17.3998}</string>
+					</array>
+					<array>
+						<string>{-57.0937, 19.8556}</string>
+						<string>{-40.6924, 91.4321}</string>
+						<string>{-87.9218, 17.3998}</string>
+						<string>{-63.935, 14.5692}</string>
+					</array>
+					<array>
+						<string>{-57.0937, 19.8556}</string>
+						<string>{-40.1119, 21.9186}</string>
+						<string>{-40.6924, 91.4321}</string>
+					</array>
+					<array>
+						<string>{49.568, 14.5692}</string>
+						<string>{56.412, 89.1607}</string>
+						<string>{22.908, 88.025}</string>
+						<string>{32.518, 18.4145}</string>
+					</array>
+					<array>
+						<string>{17.865, 21.2815}</string>
+						<string>{22.908, 88.025}</string>
+						<string>{-3.782, 88.025}</string>
+						<string>{-3.16, 23.1928}</string>
+					</array>
+					<array>
+						<string>{-20.68, 22.8743}</string>
+						<string>{-3.16, 23.1928}</string>
+						<string>{-3.782, 88.025}</string>
+					</array>
+					<array>
+						<string>{123.419, -91.419}</string>
+						<string>{139.887, -91.987}</string>
+						<string>{112.215, -35.836}</string>
+					</array>
+					<array>
+						<string>{17.865, 21.2815}</string>
+						<string>{32.518, 18.4145}</string>
+						<string>{22.908, 88.025}</string>
+					</array>
+					<array>
+						<string>{77.434, 3.4426}</string>
+						<string>{85.372, 90.8643}</string>
+						<string>{56.412, 89.1607}</string>
+						<string>{66.36, 8.3499}</string>
+					</array>
+					<array>
+						<string>{-40.6924, 91.4321}</string>
+						<string>{57.365, 0.257103}</string>
+						<string>{56.412, 89.1607}</string>
+					</array>
+					<array>
+						<string>{54.854, 9.9047}</string>
+						<string>{66.36, 8.3499}</string>
+						<string>{56.412, 89.1607}</string>
+						<string>{49.568, 14.5692}</string>
+					</array>
+					<array>
+						<string>{57.365, 0.257103}</string>
+						<string>{67.293, -5.0217}</string>
+						<string>{67.877, -0.379997}</string>
+						<string>{66.36, 8.3499}</string>
+						<string>{54.854, 9.9047}</string>
+					</array>
+					<array>
+						<string>{57.964, -5.9546}</string>
+						<string>{67.293, -5.0217}</string>
+						<string>{57.365, 0.257103}</string>
+					</array>
+					<array>
+						<string>{67.293, -5.0217}</string>
+						<string>{67.877, -0.379997}</string>
+						<string>{57.964, -5.9546}</string>
+						<string>{62.78, -8.025}</string>
+					</array>
+				</array>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsCircle</key>
+				<false/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>Mask</key>
+				<integer>65535</integer>
+				<key>PhysicType</key>
+				<integer>0</integer>
+				<key>Restitution</key>
+				<real>0.20000000298023224</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array>
+					<string>{23.1527, 1.48415}</string>
+					<string>{15.5836, 4.45245}</string>
+					<string>{9.20174, 9.35014}</string>
+					<string>{4.83723, 14.3505}</string>
+					<string>{1.77365, 24.9924}</string>
+					<string>{1.48415, 31.7608}</string>
+					<string>{0.16124, 35.3118}</string>
+					<string>{0.445251, 35.3228}</string>
+					<string>{0, 42.7289}</string>
+					<string>{4.83723, 50.4685}</string>
+					<string>{11.9318, 58.853}</string>
+					<string>{23.5933, 62.9856}</string>
+					<string>{28.6697, 71.9927}</string>
+					<string>{37.6321, 82.5693}</string>
+					<string>{51.5782, 74.6002}</string>
+					<string>{60.3276, 89.2476}</string>
+					<string>{62.5044, 96.7108}</string>
+					<string>{69.6566, 93.9121}</string>
+					<string>{75.565, 77.4308}</string>
+					<string>{82.4063, 72.1444}</string>
+					<string>{99.3881, 70.0814}</string>
+					<string>{118.82, 69.1257}</string>
+					<string>{136.34, 68.8072}</string>
+					<string>{157.365, 70.7185}</string>
+					<string>{172.018, 73.5855}</string>
+					<string>{189.068, 77.4308}</string>
+					<string>{194.354, 82.0953}</string>
+					<string>{196.865, 91.7429}</string>
+					<string>{197.464, 97.9546}</string>
+					<string>{202.28, 100.025}</string>
+					<string>{206.793, 97.0217}</string>
+					<string>{207.377, 92.38}</string>
+					<string>{205.86, 83.6501}</string>
+					<string>{216.934, 88.5574}</string>
+					<string>{227.765, 95.8841}</string>
+					<string>{238.268, 104.485}</string>
+					<string>{246.965, 116.359}</string>
+					<string>{251.715, 127.836}</string>
+					<string>{262.919, 183.419}</string>
+					<string>{279.387, 183.987}</string>
+					<string>{279.955, 2.8393}</string>
+					<string>{247.019, 2.27144}</string>
+					<string>{224.872, 1.13572}</string>
+					<string>{195.912, 2.8393}</string>
+					<string>{162.408, 3.97502}</string>
+					<string>{135.718, 3.97502}</string>
+					<string>{109.029, 1.13572}</string>
+					<string>{98.8076, 0.567863}</string>
+					<string>{24.9858, 0.567863}</string>
+				</array>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{0, 0}, {279, 184}}</string>
+				<key>Frame-HD</key>
+				<string>{{0, 0}, {279, 184}}</string>
+				<key>FrameUV</key>
+				<string>{{0, 0}, {0.359375, 0.544922}}</string>
+				<key>Image</key>
+				<string>fleak.png</string>
+				<key>Image-HD</key>
+				<string>fleak.png</string>
+				<key>ImageURL</key>
+				<string>/Users/incisor/Programming/data/Fleak Data/fleak.png</string>
+				<key>ImageURL-HD</key>
+				<string>/Users/incisor/Programming/data/Fleak Data/fleak.png</string>
+				<key>Name</key>
+				<string>lands480_e</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array>
+					<array>
+						<string>{97.065, 7.69299}</string>
+						<string>{101.745, 8.757}</string>
+						<string>{103.235, 11.736}</string>
+						<string>{102.597, 16.203}</string>
+						<string>{98.98, 24.501}</string>
+						<string>{93.235, 31.735}</string>
+						<string>{74.726, 35.777}</string>
+					</array>
+					<array>
+						<string>{-102.287, 14.501}</string>
+						<string>{-101.649, 9.395}</string>
+						<string>{-98.2449, 7.69299}</string>
+						<string>{-101.649, 15.565}</string>
+					</array>
+					<array>
+						<string>{-88.8836, -2.94501}</string>
+						<string>{-86.9688, -4.008}</string>
+						<string>{-80.1606, -4.85899}</string>
+						<string>{-66.757, 36.415}</string>
+						<string>{-75.48, 34.926}</string>
+						<string>{-91.8622, 0.671997}</string>
+					</array>
+					<array>
+						<string>{-101.649, 15.565}</string>
+						<string>{-98.2449, 7.69299}</string>
+						<string>{-96.1173, 6.41701}</string>
+						<string>{-85.2668, 34.713}</string>
+						<string>{-91.2239, 33.224}</string>
+						<string>{-96.9684, 27.267}</string>
+						<string>{-98.4576, 24.714}</string>
+						<string>{-99.5214, 21.948}</string>
+					</array>
+					<array>
+						<string>{-96.9684, 27.267}</string>
+						<string>{-91.2239, 33.224}</string>
+						<string>{-93.9898, 31.735}</string>
+					</array>
+					<array>
+						<string>{-16.9722, -22.093}</string>
+						<string>{-13.9936, -21.667}</string>
+						<string>{-31.4396, -16.135}</string>
+						<string>{-21.8656, -20.603}</string>
+					</array>
+					<array>
+						<string>{94.937, 4.715}</string>
+						<string>{97.065, 7.69299}</string>
+						<string>{74.726, 35.777}</string>
+						<string>{67.066, 36.628}</string>
+						<string>{44.514, -10.178}</string>
+						<string>{56.003, -10.391}</string>
+						<string>{80.683, -4.85899}</string>
+					</array>
+					<array>
+						<string>{-91.8622, 0.671997}</string>
+						<string>{-75.48, 34.926}</string>
+						<string>{-80.5862, 34.926}</string>
+						<string>{-85.2668, 34.713}</string>
+						<string>{-96.1173, 6.41701}</string>
+					</array>
+					<array>
+						<string>{92.172, -0.179001}</string>
+						<string>{94.937, 4.715}</string>
+						<string>{80.683, -4.85899}</string>
+						<string>{85.151, -5.07201}</string>
+						<string>{89.193, -3.37}</string>
+					</array>
+					<array>
+						<string>{-35.4819, -16.348}</string>
+						<string>{-31.4396, -16.135}</string>
+						<string>{-66.757, 36.415}</string>
+						<string>{-42.7156, -10.817}</string>
+					</array>
+					<array>
+						<string>{-65.055, -20.178}</string>
+						<string>{-62.2892, -16.135}</string>
+						<string>{-61.4381, -14.433}</string>
+						<string>{-78.2458, -10.817}</string>
+						<string>{-75.9055, -16.561}</string>
+						<string>{-72.0759, -19.114}</string>
+						<string>{-67.8208, -20.391}</string>
+					</array>
+					<array>
+						<string>{-61.4381, -14.433}</string>
+						<string>{-58.8851, -11.668}</string>
+						<string>{-80.1606, -4.85899}</string>
+						<string>{-78.2458, -10.817}</string>
+					</array>
+					<array>
+						<string>{-58.8851, -11.668}</string>
+						<string>{-55.6937, -10.604}</string>
+						<string>{-66.757, 36.415}</string>
+						<string>{-80.1606, -4.85899}</string>
+					</array>
+					<array>
+						<string>{-55.6937, -10.604}</string>
+						<string>{-51.0131, -9.327}</string>
+						<string>{-66.757, 36.415}</string>
+					</array>
+					<array>
+						<string>{-51.0131, -9.327}</string>
+						<string>{-46.1197, -9.327}</string>
+						<string>{-66.757, 36.415}</string>
+					</array>
+					<array>
+						<string>{-46.1197, -9.327}</string>
+						<string>{-42.7156, -10.817}</string>
+						<string>{-66.757, 36.415}</string>
+					</array>
+					<array>
+						<string>{-13.9936, -21.667}</string>
+						<string>{-10.8023, -21.667}</string>
+						<string>{44.514, -10.178}</string>
+						<string>{67.066, 36.628}</string>
+						<string>{-66.757, 36.415}</string>
+						<string>{-31.4396, -16.135}</string>
+					</array>
+					<array>
+						<string>{19.409, -19.539}</string>
+						<string>{20.047, -15.284}</string>
+						<string>{-8.6747, -22.305}</string>
+						<string>{6.431, -31.454}</string>
+						<string>{9.835, -31.454}</string>
+					</array>
+					<array>
+						<string>{1.963, -36.773}</string>
+						<string>{4.303, -35.496}</string>
+						<string>{5.367, -32.943}</string>
+						<string>{-8.6747, -22.305}</string>
+						<string>{-2.292, -35.922}</string>
+						<string>{-0.376999, -37.198}</string>
+					</array>
+					<array>
+						<string>{18.771, -25.497}</string>
+						<string>{19.409, -19.539}</string>
+						<string>{9.835, -31.454}</string>
+						<string>{13.026, -32.518}</string>
+						<string>{15.579, -31.454}</string>
+					</array>
+					<array>
+						<string>{5.367, -32.943}</string>
+						<string>{6.431, -31.454}</string>
+						<string>{-8.6747, -22.305}</string>
+					</array>
+					<array>
+						<string>{-8.6747, -22.305}</string>
+						<string>{20.047, -15.284}</string>
+						<string>{-10.8023, -21.667}</string>
+					</array>
+					<array>
+						<string>{34.727, -16.561}</string>
+						<string>{44.514, -10.178}</string>
+						<string>{20.047, -15.284}</string>
+					</array>
+					<array>
+						<string>{67.705, -24.433}</string>
+						<string>{70.47, -24.007}</string>
+						<string>{74.726, -16.135}</string>
+						<string>{77.066, -10.604}</string>
+						<string>{56.003, -10.391}</string>
+						<string>{63.875, -20.816}</string>
+					</array>
+					<array>
+						<string>{77.066, -10.604}</string>
+						<string>{80.683, -4.85899}</string>
+						<string>{56.003, -10.391}</string>
+					</array>
+				</array>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsCircle</key>
+				<false/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>Mask</key>
+				<integer>65535</integer>
+				<key>PhysicType</key>
+				<integer>0</integer>
+				<key>Restitution</key>
+				<real>0.20000000298023224</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array>
+					<string>{0.212753, 210.999}</string>
+					<string>{0.851021, 216.105}</string>
+					<string>{4.25511, 217.807}</string>
+					<string>{6.38267, 219.083}</string>
+					<string>{10.6378, 224.828}</string>
+					<string>{13.6164, 228.445}</string>
+					<string>{15.5312, 229.508}</string>
+					<string>{22.3394, 230.359}</string>
+					<string>{24.2542, 236.317}</string>
+					<string>{26.5945, 242.061}</string>
+					<string>{30.4241, 244.614}</string>
+					<string>{34.6792, 245.891}</string>
+					<string>{37.445, 245.678}</string>
+					<string>{40.2108, 241.635}</string>
+					<string>{41.0619, 239.933}</string>
+					<string>{43.6149, 237.168}</string>
+					<string>{46.8063, 236.104}</string>
+					<string>{51.4869, 234.827}</string>
+					<string>{56.3803, 234.827}</string>
+					<string>{59.7844, 236.317}</string>
+					<string>{64.465, 239.933}</string>
+					<string>{67.0181, 241.848}</string>
+					<string>{71.0604, 241.635}</string>
+					<string>{80.6344, 246.103}</string>
+					<string>{85.5278, 247.593}</string>
+					<string>{88.5064, 247.167}</string>
+					<string>{91.6977, 247.167}</string>
+					<string>{93.8253, 247.805}</string>
+					<string>{100.208, 261.422}</string>
+					<string>{102.123, 262.698}</string>
+					<string>{104.463, 262.273}</string>
+					<string>{106.803, 260.996}</string>
+					<string>{107.867, 258.443}</string>
+					<string>{108.931, 256.954}</string>
+					<string>{112.335, 256.954}</string>
+					<string>{115.526, 258.018}</string>
+					<string>{118.079, 256.954}</string>
+					<string>{121.271, 250.997}</string>
+					<string>{121.909, 245.039}</string>
+					<string>{122.547, 240.784}</string>
+					<string>{137.227, 242.061}</string>
+					<string>{147.014, 235.678}</string>
+					<string>{158.503, 235.891}</string>
+					<string>{166.375, 246.316}</string>
+					<string>{170.205, 249.933}</string>
+					<string>{172.97, 249.507}</string>
+					<string>{177.226, 241.635}</string>
+					<string>{179.566, 236.104}</string>
+					<string>{183.183, 230.359}</string>
+					<string>{187.651, 230.572}</string>
+					<string>{191.693, 228.87}</string>
+					<string>{194.672, 225.679}</string>
+					<string>{197.437, 220.785}</string>
+					<string>{199.565, 217.807}</string>
+					<string>{204.245, 216.743}</string>
+					<string>{205.735, 213.764}</string>
+					<string>{205.097, 209.297}</string>
+					<string>{201.48, 200.999}</string>
+					<string>{195.735, 193.765}</string>
+					<string>{177.226, 189.723}</string>
+					<string>{169.566, 188.872}</string>
+					<string>{35.743, 189.085}</string>
+					<string>{27.02, 190.574}</string>
+					<string>{21.9138, 190.574}</string>
+					<string>{17.2332, 190.787}</string>
+					<string>{11.2761, 192.276}</string>
+					<string>{8.51023, 193.765}</string>
+					<string>{5.53165, 198.233}</string>
+					<string>{4.04236, 200.786}</string>
+					<string>{2.97858, 203.552}</string>
+					<string>{0.851021, 209.935}</string>
+				</array>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{0, 189}, {205, 73}}</string>
+				<key>Frame-HD</key>
+				<string>{{0, 189}, {205, 73}}</string>
+				<key>FrameUV</key>
+				<string>{{0.369141, 0}, {0.511719, 0.400391}}</string>
+				<key>Image</key>
+				<string>fleak.png</string>
+				<key>Image-HD</key>
+				<string>fleak.png</string>
+				<key>ImageURL</key>
+				<string>/Users/incisor/Programming/data/Fleak Data/fleak.png</string>
+				<key>ImageURL-HD</key>
+				<string>/Users/incisor/Programming/data/Fleak Data/fleak.png</string>
+				<key>Name</key>
+				<string>lands480_d</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array>
+					<array>
+						<string>{95.49, -8.23801}</string>
+						<string>{101.66, -6.53601}</string>
+						<string>{103.788, -4.19601}</string>
+						<string>{105.064, -0.153992}</string>
+						<string>{104.213, 12.186}</string>
+						<string>{99.958, 23.249}</string>
+						<string>{93.363, 28.568}</string>
+						<string>{83.151, 31.76}</string>
+					</array>
+					<array>
+						<string>{-97.6918, 1.336}</string>
+						<string>{-94.2877, 29.845}</string>
+						<string>{-100.458, 0.696991}</string>
+					</array>
+					<array>
+						<string>{-100.67, 23.675}</string>
+						<string>{-101.096, 19.845}</string>
+						<string>{-98.5428, 26.228}</string>
+						<string>{-99.1811, 25.802}</string>
+					</array>
+					<array>
+						<string>{-100.458, 0.696991}</string>
+						<string>{-97.6918, 1.336}</string>
+						<string>{-101.309, 16.441}</string>
+						<string>{-103.223, 13.25}</string>
+						<string>{-104.074, 9.20801}</string>
+						<string>{-103.862, 3.03799}</string>
+						<string>{-102.798, 1.548}</string>
+					</array>
+					<array>
+						<string>{-101.309, 16.441}</string>
+						<string>{-89.8199, -0.791992}</string>
+						<string>{-73.4377, 32.611}</string>
+						<string>{-83.0117, 32.823}</string>
+						<string>{-90.8836, 31.76}</string>
+						<string>{-94.2877, 29.845}</string>
+						<string>{-98.5428, 26.228}</string>
+						<string>{-101.096, 19.845}</string>
+					</array>
+					<array>
+						<string>{-97.6918, 1.336}</string>
+						<string>{-93.4367, 0.272003}</string>
+						<string>{-101.309, 16.441}</string>
+					</array>
+					<array>
+						<string>{-93.4367, 0.272003}</string>
+						<string>{-89.8199, -0.791992}</string>
+						<string>{-101.309, 16.441}</string>
+					</array>
+					<array>
+						<string>{-87.9051, -2.707}</string>
+						<string>{-67.906, -6.74899}</string>
+						<string>{-58.332, 32.185}</string>
+						<string>{-67.906, 32.823}</string>
+						<string>{-73.4377, 32.611}</string>
+						<string>{-89.8199, -0.791992}</string>
+					</array>
+					<array>
+						<string>{93.576, -10.579}</string>
+						<string>{95.49, -8.23801}</string>
+						<string>{83.151, 31.76}</string>
+						<string>{68.47, 33.036}</string>
+						<string>{53.152, 33.036}</string>
+						<string>{72.938, -18.451}</string>
+						<string>{83.576, -17.387}</string>
+					</array>
+					<array>
+						<string>{-73.4377, -14.621}</string>
+						<string>{-69.3953, -10.153}</string>
+						<string>{-67.906, -6.74899}</string>
+						<string>{-86.4158, -5.26001}</string>
+						<string>{-86.4158, -8.23801}</string>
+						<string>{-85.7775, -11.217}</string>
+						<string>{-83.6499, -15.898}</string>
+						<string>{-82.3734, -18.025}</string>
+					</array>
+					<array>
+						<string>{90.597, -14.621}</string>
+						<string>{93.576, -10.579}</string>
+						<string>{83.576, -17.387}</string>
+					</array>
+					<array>
+						<string>{-61.3106, -9.728}</string>
+						<string>{-48.1197, 32.185}</string>
+						<string>{-58.332, 32.185}</string>
+						<string>{-67.906, -6.74899}</string>
+					</array>
+					<array>
+						<string>{-35.1416, -22.493}</string>
+						<string>{-28.1207, -21.429}</string>
+						<string>{-14.7171, -18.238}</string>
+						<string>{-27.2697, 34.313}</string>
+						<string>{-37.2692, 32.823}</string>
+						<string>{-61.3106, -9.728}</string>
+						<string>{-50.46, -17.812}</string>
+						<string>{-42.3753, -21.855}</string>
+					</array>
+					<array>
+						<string>{-86.4158, -5.26001}</string>
+						<string>{-67.906, -6.74899}</string>
+						<string>{-87.9051, -2.707}</string>
+					</array>
+					<array>
+						<string>{-61.3106, -9.728}</string>
+						<string>{-37.2692, 32.823}</string>
+						<string>{-48.1197, 32.185}</string>
+					</array>
+					<array>
+						<string>{-14.7171, -18.238}</string>
+						<string>{-5.78131, -20.366}</string>
+						<string>{-5.99411, 35.802}</string>
+						<string>{-14.9298, 35.164}</string>
+					</array>
+					<array>
+						<string>{-27.2697, 34.313}</string>
+						<string>{-14.7171, -18.238}</string>
+						<string>{-14.9298, 35.164}</string>
+					</array>
+					<array>
+						<string>{81.874, -19.089}</string>
+						<string>{83.576, -17.387}</string>
+						<string>{72.938, -18.451}</string>
+					</array>
+					<array>
+						<string>{18.473, -26.535}</string>
+						<string>{30.174, -35.471}</string>
+						<string>{33.791, -35.471}</string>
+						<string>{35.706, -33.982}</string>
+						<string>{43.365, -26.11}</string>
+						<string>{26.558, 33.249}</string>
+						<string>{19.537, 34.1}</string>
+						<string>{11.665, 34.525}</string>
+					</array>
+					<array>
+						<string>{9.53699, -28.663}</string>
+						<string>{15.281, -27.386}</string>
+						<string>{11.665, 34.525}</string>
+						<string>{-42.3753, -21.855}</string>
+					</array>
+					<array>
+						<string>{6.133, -28.025}</string>
+						<string>{15.281, -27.386}</string>
+						<string>{-5.78131, -20.366}</string>
+					</array>
+					<array>
+						<string>{73.577, -30.791}</string>
+						<string>{74.853, -32.705}</string>
+						<string>{77.832, -33.131}</string>
+						<string>{80.81, -26.323}</string>
+						<string>{81.874, -19.089}</string>
+						<string>{72.938, -18.451}</string>
+					</array>
+					<array>
+						<string>{53.578, -28.45}</string>
+						<string>{56.982, -27.812}</string>
+						<string>{65.066, -21.855}</string>
+						<string>{48.897, -27.174}</string>
+					</array>
+					<array>
+						<string>{19.537, 34.1}</string>
+						<string>{43.365, -26.11}</string>
+						<string>{48.897, -27.174}</string>
+						<string>{65.066, -21.855}</string>
+						<string>{42.089, 31.76}</string>
+					</array>
+					<array>
+						<string>{42.089, 31.76}</string>
+						<string>{65.066, -21.855}</string>
+						<string>{72.938, -18.451}</string>
+						<string>{53.152, 33.036}</string>
+					</array>
+				</array>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsCircle</key>
+				<false/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>Mask</key>
+				<integer>65535</integer>
+				<key>PhysicType</key>
+				<integer>0</integer>
+				<key>Restitution</key>
+				<real>0.20000000298023224</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array>
+					<string>{5.31889, 276.698}</string>
+					<string>{3.82959, 278.825}</string>
+					<string>{3.40408, 282.655}</string>
+					<string>{3.19135, 286.059}</string>
+					<string>{1.27652, 289.25}</string>
+					<string>{0.425507, 293.292}</string>
+					<string>{0.638275, 299.462}</string>
+					<string>{1.70206, 300.952}</string>
+					<string>{4.04236, 301.803}</string>
+					<string>{6.80818, 301.164}</string>
+					<string>{11.0633, 302.228}</string>
+					<string>{14.6801, 303.292}</string>
+					<string>{16.5949, 305.207}</string>
+					<string>{18.0842, 307.76}</string>
+					<string>{18.0842, 310.738}</string>
+					<string>{18.7225, 313.717}</string>
+					<string>{20.8501, 318.398}</string>
+					<string>{22.1266, 320.525}</string>
+					<string>{31.0623, 317.121}</string>
+					<string>{35.1047, 312.653}</string>
+					<string>{36.594, 309.249}</string>
+					<string>{43.1894, 312.228}</string>
+					<string>{54.04, 320.312}</string>
+					<string>{62.1247, 324.355}</string>
+					<string>{69.3584, 324.993}</string>
+					<string>{76.3793, 323.929}</string>
+					<string>{89.7829, 320.738}</string>
+					<string>{98.7187, 322.866}</string>
+					<string>{110.633, 330.525}</string>
+					<string>{114.037, 331.163}</string>
+					<string>{119.781, 329.886}</string>
+					<string>{122.973, 329.035}</string>
+					<string>{134.674, 337.971}</string>
+					<string>{138.291, 337.971}</string>
+					<string>{140.206, 336.482}</string>
+					<string>{147.865, 328.61}</string>
+					<string>{153.397, 329.674}</string>
+					<string>{158.078, 330.95}</string>
+					<string>{161.482, 330.312}</string>
+					<string>{169.566, 324.355}</string>
+					<string>{177.438, 320.951}</string>
+					<string>{178.077, 333.291}</string>
+					<string>{179.353, 335.205}</string>
+					<string>{182.332, 335.631}</string>
+					<string>{185.31, 328.823}</string>
+					<string>{186.374, 321.589}</string>
+					<string>{188.076, 319.887}</string>
+					<string>{195.097, 317.121}</string>
+					<string>{198.076, 313.079}</string>
+					<string>{199.99, 310.738}</string>
+					<string>{206.16, 309.036}</string>
+					<string>{208.288, 306.696}</string>
+					<string>{209.564, 302.654}</string>
+					<string>{208.713, 290.314}</string>
+					<string>{204.458, 279.251}</string>
+					<string>{197.863, 273.932}</string>
+					<string>{187.651, 270.74}</string>
+					<string>{172.97, 269.464}</string>
+					<string>{157.652, 269.464}</string>
+					<string>{146.589, 270.74}</string>
+					<string>{131.058, 269.251}</string>
+					<string>{124.037, 268.4}</string>
+					<string>{116.165, 267.975}</string>
+					<string>{109.782, 266.911}</string>
+					<string>{102.974, 266.698}</string>
+					<string>{98.5059, 266.698}</string>
+					<string>{89.5702, 267.336}</string>
+					<string>{77.2303, 268.187}</string>
+					<string>{67.2308, 269.677}</string>
+					<string>{56.3803, 270.315}</string>
+					<string>{46.168, 270.315}</string>
+					<string>{36.594, 269.677}</string>
+					<string>{31.0623, 269.889}</string>
+					<string>{21.4883, 269.677}</string>
+					<string>{13.6164, 270.74}</string>
+					<string>{10.2123, 272.655}</string>
+					<string>{5.95715, 276.272}</string>
+				</array>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{0, 267}, {209, 71}}</string>
+				<key>Frame-HD</key>
+				<string>{{0, 267}, {209, 71}}</string>
+				<key>FrameUV</key>
+				<string>{{0.521484, 0}, {0.660156, 0.408203}}</string>
+				<key>Image</key>
+				<string>fleak.png</string>
+				<key>Image-HD</key>
+				<string>fleak.png</string>
+				<key>ImageURL</key>
+				<string>/Users/incisor/Programming/data/Fleak Data/fleak.png</string>
+				<key>ImageURL-HD</key>
+				<string>/Users/incisor/Programming/data/Fleak Data/fleak.png</string>
+				<key>Name</key>
+				<string>lands480_c</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array/>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsCircle</key>
+				<false/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>Mask</key>
+				<integer>65535</integer>
+				<key>PhysicType</key>
+				<integer>0</integer>
+				<key>Restitution</key>
+				<real>0.20000000298023224</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array/>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{0, 343}, {128, 115}}</string>
+				<key>Frame-HD</key>
+				<string>{{0, 343}, {128, 115}}</string>
+				<key>FrameUV</key>
+				<string>{{0.669922, 0}, {0.894531, 0.25}}</string>
+				<key>Image</key>
+				<string>fleak.png</string>
+				<key>Image-HD</key>
+				<string>fleak.png</string>
+				<key>ImageURL</key>
+				<string>/Users/incisor/Programming/data/Fleak Data/fleak.png</string>
+				<key>ImageURL-HD</key>
+				<string>/Users/incisor/Programming/data/Fleak Data/fleak.png</string>
+				<key>Name</key>
+				<string>sun</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array>
+					<array>
+						<string>{-72.372, -39.907}</string>
+						<string>{72.94, -39.907}</string>
+						<string>{9.965, -28.844}</string>
+						<string>{4.85901, -29.056}</string>
+						<string>{-31.735, -32.886}</string>
+					</array>
+					<array>
+						<string>{12.73, -26.291}</string>
+						<string>{12.305, -27.993}</string>
+						<string>{72.94, -39.907}</string>
+						<string>{72.515, -29.695}</string>
+						<string>{32.942, -7.99399}</string>
+						<string>{28.049, -11.823}</string>
+					</array>
+					<array>
+						<string>{-73.223, -35.865}</string>
+						<string>{-72.797, -38.63}</string>
+						<string>{-58.543, -25.652}</string>
+						<string>{-64.287, -23.525}</string>
+						<string>{-72.372, -20.972}</string>
+						<string>{-73.223, -27.354}</string>
+					</array>
+					<array>
+						<string>{-64.287, -23.525}</string>
+						<string>{-64.287, -7.99399}</string>
+						<string>{-65.776, -6.92999}</string>
+						<string>{-68.117, -9.69601}</string>
+						<string>{-69.819, -13.738}</string>
+					</array>
+					<array>
+						<string>{32.942, -7.99399}</string>
+						<string>{72.515, -29.695}</string>
+						<string>{72.515, -26.078}</string>
+						<string>{71.026, -16.504}</string>
+						<string>{68.685, -7.14301}</string>
+						<string>{42.516, -0.76001}</string>
+						<string>{36.559, -4.58899}</string>
+					</array>
+					<array>
+						<string>{-72.372, -20.972}</string>
+						<string>{-64.287, -23.525}</string>
+						<string>{-69.819, -13.738}</string>
+						<string>{-71.521, -17.142}</string>
+					</array>
+					<array>
+						<string>{-72.372, -39.907}</string>
+						<string>{-51.309, -32.035}</string>
+						<string>{-58.543, -25.652}</string>
+						<string>{-72.797, -38.63}</string>
+					</array>
+					<array>
+						<string>{-52.16, 14.984}</string>
+						<string>{-49.82, 10.942}</string>
+						<string>{-45.777, 12.431}</string>
+						<string>{-39.607, 16.261}</string>
+						<string>{-43.012, 24.345}</string>
+						<string>{-52.16, 15.622}</string>
+					</array>
+					<array>
+						<string>{-30.884, 19.665}</string>
+						<string>{-28.97, 19.239}</string>
+						<string>{-30.884, 31.154}</string>
+						<string>{-35.352, 29.239}</string>
+					</array>
+					<array>
+						<string>{-39.607, 26.686}</string>
+						<string>{-43.012, 24.345}</string>
+						<string>{-39.607, 16.261}</string>
+						<string>{-34.289, 18.175}</string>
+						<string>{-30.884, 19.665}</string>
+						<string>{-35.352, 29.239}</string>
+					</array>
+					<array>
+						<string>{-52.798, 11.367}</string>
+						<string>{-49.82, 10.942}</string>
+						<string>{-52.16, 14.984}</string>
+					</array>
+					<array>
+						<string>{-47.267, -27.993}</string>
+						<string>{-48.543, -29.907}</string>
+						<string>{-41.097, -29.907}</string>
+						<string>{-41.948, -27.567}</string>
+						<string>{-44.926, -26.929}</string>
+					</array>
+					<array>
+						<string>{-50.032, -31.397}</string>
+						<string>{-39.395, -31.609}</string>
+						<string>{-41.097, -29.907}</string>
+						<string>{-48.543, -29.907}</string>
+					</array>
+					<array>
+						<string>{-28.97, 19.239}</string>
+						<string>{-27.268, 11.58}</string>
+						<string>{-18.757, 9.02701}</string>
+						<string>{-16.204, 9.452}</string>
+						<string>{-11.736, 18.601}</string>
+						<string>{-24.289, 34.558}</string>
+						<string>{-30.884, 31.154}</string>
+					</array>
+					<array>
+						<string>{-31.735, -32.886}</string>
+						<string>{-12.375, -29.907}</string>
+						<string>{-24.502, -30.12}</string>
+						<string>{-29.182, -30.971}</string>
+					</array>
+					<array>
+						<string>{-51.309, -32.035}</string>
+						<string>{-34.289, -33.099}</string>
+						<string>{-39.395, -31.609}</string>
+						<string>{-50.032, -31.397}</string>
+					</array>
+					<array>
+						<string>{-72.372, -39.907}</string>
+						<string>{-34.289, -33.099}</string>
+						<string>{-51.309, -32.035}</string>
+					</array>
+					<array>
+						<string>{42.516, -0.76001}</string>
+						<string>{68.685, -7.14301}</string>
+						<string>{67.196, -0.546997}</string>
+						<string>{44.644, 1.155}</string>
+					</array>
+					<array>
+						<string>{-23.651, 6.048}</string>
+						<string>{-20.459, 7.53799}</string>
+						<string>{-18.757, 9.02701}</string>
+						<string>{-27.268, 11.58}</string>
+						<string>{-25.353, 7.96301}</string>
+					</array>
+					<array>
+						<string>{-2.375, 8.60101}</string>
+						<string>{-1.311, 13.495}</string>
+						<string>{-8.97101, 14.559}</string>
+						<string>{-8.12, 11.793}</string>
+					</array>
+					<array>
+						<string>{-13.439, 8.60101}</string>
+						<string>{-11.736, 18.601}</string>
+						<string>{-16.204, 9.452}</string>
+					</array>
+					<array>
+						<string>{-21.736, 36.685}</string>
+						<string>{-24.289, 34.558}</string>
+						<string>{-11.736, 18.601}</string>
+						<string>{1.02899, 16.899}</string>
+						<string>{-4.50299, 39.664}</string>
+						<string>{-8.332, 39.451}</string>
+						<string>{-13.651, 38.6}</string>
+					</array>
+					<array>
+						<string>{1.02899, 16.899}</string>
+						<string>{10.816, 19.239}</string>
+						<string>{13.794, 20.516}</string>
+						<string>{17.411, 40.089}</string>
+						<string>{6.34799, 40.302}</string>
+						<string>{-4.50299, 39.664}</string>
+					</array>
+					<array>
+						<string>{44.644, 1.155}</string>
+						<string>{67.196, -0.546997}</string>
+						<string>{63.579, 19.239}</string>
+						<string>{42.729, 3.07001}</string>
+					</array>
+					<array>
+						<string>{-31.735, -32.886}</string>
+						<string>{-1.099, -29.269}</string>
+						<string>{-5.56601, -29.269}</string>
+						<string>{-12.375, -29.907}</string>
+					</array>
+					<array>
+						<string>{-3.439, 3.92099}</string>
+						<string>{-2.375, 8.60101}</string>
+						<string>{-8.12, 11.793}</string>
+						<string>{-7.056, 1.58099}</string>
+						<string>{-5.354, 1.58099}</string>
+					</array>
+					<array>
+						<string>{-1.311, 13.495}</string>
+						<string>{1.02899, 16.899}</string>
+						<string>{-11.736, 18.601}</string>
+						<string>{-8.97101, 14.559}</string>
+					</array>
+					<array>
+						<string>{37.41, 7.112}</string>
+						<string>{63.579, 19.239}</string>
+						<string>{61.877, 24.771}</string>
+						<string>{59.324, 28.388}</string>
+						<string>{51.452, 33.707}</string>
+						<string>{45.708, 36.047}</string>
+						<string>{29.113, 13.069}</string>
+						<string>{33.368, 9.87799}</string>
+					</array>
+					<array>
+						<string>{7.41199, 4.34601}</string>
+						<string>{9.965, 8.38901}</string>
+						<string>{10.603, 16.473}</string>
+						<string>{1.02899, 16.899}</string>
+						<string>{3.582, 5.62299}</string>
+					</array>
+					<array>
+						<string>{10.603, 16.473}</string>
+						<string>{10.816, 19.239}</string>
+						<string>{1.02899, 16.899}</string>
+					</array>
+					<array>
+						<string>{22.305, 16.899}</string>
+						<string>{34.219, 38.6}</string>
+						<string>{27.836, 40.089}</string>
+						<string>{17.411, 40.089}</string>
+						<string>{13.794, 20.516}</string>
+					</array>
+					<array>
+						<string>{12.73, -26.291}</string>
+						<string>{23.368, -16.078}</string>
+						<string>{13.581, -23.525}</string>
+					</array>
+					<array>
+						<string>{14.645, -15.014}</string>
+						<string>{13.581, -19.695}</string>
+						<string>{21.666, -14.163}</string>
+						<string>{20.177, -11.823}</string>
+						<string>{18.475, -10.759}</string>
+						<string>{16.135, -12.249}</string>
+					</array>
+					<array>
+						<string>{29.113, 13.069}</string>
+						<string>{45.708, 36.047}</string>
+						<string>{39.75, 37.749}</string>
+						<string>{34.219, 38.6}</string>
+						<string>{22.305, 16.899}</string>
+					</array>
+					<array>
+						<string>{13.581, -23.525}</string>
+						<string>{23.368, -16.078}</string>
+						<string>{21.666, -14.163}</string>
+						<string>{13.581, -19.695}</string>
+					</array>
+					<array>
+						<string>{42.729, 3.07001}</string>
+						<string>{63.579, 19.239}</string>
+						<string>{37.41, 7.112}</string>
+					</array>
+				</array>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsCircle</key>
+				<false/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>Mask</key>
+				<integer>65535</integer>
+				<key>PhysicType</key>
+				<integer>0</integer>
+				<key>Restitution</key>
+				<real>0.20000000298023224</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array>
+					<string>{234.84, 292.016}</string>
+					<string>{234.202, 295.633}</string>
+					<string>{237.18, 296.058}</string>
+					<string>{241.223, 294.569}</string>
+					<string>{247.393, 290.739}</string>
+					<string>{252.711, 288.825}</string>
+					<string>{256.116, 287.335}</string>
+					<string>{258.03, 287.761}</string>
+					<string>{259.732, 295.42}</string>
+					<string>{261.647, 299.037}</string>
+					<string>{263.349, 300.952}</string>
+					<string>{266.541, 299.462}</string>
+					<string>{268.243, 297.973}</string>
+					<string>{270.796, 297.548}</string>
+					<string>{273.561, 298.399}</string>
+					<string>{275.264, 288.399}</string>
+					<string>{278.029, 292.441}</string>
+					<string>{278.88, 295.207}</string>
+					<string>{279.306, 299.462}</string>
+					<string>{279.944, 305.419}</string>
+					<string>{281.646, 305.419}</string>
+					<string>{283.561, 303.079}</string>
+					<string>{284.625, 298.399}</string>
+					<string>{285.689, 293.505}</string>
+					<string>{288.029, 290.101}</string>
+					<string>{290.582, 301.377}</string>
+					<string>{294.412, 302.654}</string>
+					<string>{296.965, 298.611}</string>
+					<string>{297.603, 290.527}</string>
+					<string>{297.816, 287.761}</string>
+					<string>{300.794, 286.484}</string>
+					<string>{309.305, 290.101}</string>
+					<string>{316.113, 293.931}</string>
+					<string>{320.368, 297.122}</string>
+					<string>{324.41, 299.888}</string>
+					<string>{329.729, 303.93}</string>
+					<string>{331.644, 305.845}</string>
+					<string>{329.516, 307.76}</string>
+					<string>{323.559, 311.589}</string>
+					<string>{319.942, 314.994}</string>
+					<string>{315.049, 318.823}</string>
+					<string>{310.368, 323.078}</string>
+					<string>{308.666, 321.163}</string>
+					<string>{307.177, 318.823}</string>
+					<string>{305.475, 317.759}</string>
+					<string>{303.135, 319.249}</string>
+					<string>{301.645, 322.014}</string>
+					<string>{300.581, 326.695}</string>
+					<string>{300.581, 330.525}</string>
+					<string>{299.73, 333.291}</string>
+					<string>{299.305, 334.993}</string>
+					<string>{296.965, 335.844}</string>
+					<string>{291.859, 336.056}</string>
+					<string>{285.901, 336.269}</string>
+					<string>{281.434, 336.269}</string>
+					<string>{274.625, 336.907}</string>
+					<string>{268.881, 336.907}</string>
+					<string>{262.498, 337.12}</string>
+					<string>{257.818, 337.971}</string>
+					<string>{255.265, 339.886}</string>
+					<string>{252.711, 340.099}</string>
+					<string>{247.605, 338.609}</string>
+					<string>{245.903, 336.907}</string>
+					<string>{245.052, 334.567}</string>
+					<string>{242.074, 333.929}</string>
+					<string>{239.733, 334.993}</string>
+					<string>{238.457, 336.907}</string>
+					<string>{236.968, 338.397}</string>
+					<string>{235.691, 339.035}</string>
+					<string>{228.457, 332.652}</string>
+					<string>{222.713, 330.525}</string>
+					<string>{222.713, 314.994}</string>
+					<string>{221.224, 313.93}</string>
+					<string>{218.883, 316.696}</string>
+					<string>{217.181, 320.738}</string>
+					<string>{215.479, 324.142}</string>
+					<string>{214.628, 327.972}</string>
+					<string>{214.203, 330.95}</string>
+					<string>{213.777, 334.354}</string>
+					<string>{213.777, 338.609}</string>
+					<string>{213.777, 342.865}</string>
+					<string>{214.203, 345.63}</string>
+					<string>{214.628, 346.907}</string>
+					<string>{359.94, 346.907}</string>
+					<string>{360.366, 342.439}</string>
+					<string>{359.515, 336.695}</string>
+					<string>{359.515, 333.078}</string>
+					<string>{358.026, 323.504}</string>
+					<string>{356.962, 319.249}</string>
+					<string>{355.685, 314.143}</string>
+					<string>{354.196, 307.547}</string>
+					<string>{352.494, 297.335}</string>
+					<string>{350.579, 287.761}</string>
+					<string>{348.877, 282.229}</string>
+					<string>{346.324, 278.612}</string>
+					<string>{338.452, 273.293}</string>
+					<string>{332.708, 270.953}</string>
+					<string>{326.75, 269.251}</string>
+					<string>{321.219, 268.4}</string>
+					<string>{314.836, 266.911}</string>
+					<string>{304.411, 266.911}</string>
+					<string>{293.348, 266.698}</string>
+					<string>{282.497, 267.336}</string>
+					<string>{278.668, 267.549}</string>
+					<string>{273.349, 268.4}</string>
+					<string>{265.264, 270.315}</string>
+					<string>{262.711, 272.442}</string>
+					<string>{256.116, 275.846}</string>
+					<string>{251.648, 277.761}</string>
+					<string>{247.393, 280.314}</string>
+					<string>{243.988, 282.655}</string>
+					<string>{237.393, 288.825}</string>
+					<string>{234.84, 291.378}</string>
+				</array>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{214, 267}, {146, 80}}</string>
+				<key>Frame-HD</key>
+				<string>{{214, 267}, {146, 80}}</string>
+				<key>FrameUV</key>
+				<string>{{0.521484, 0.417969}, {0.677734, 0.703125}}</string>
+				<key>Image</key>
+				<string>fleak.png</string>
+				<key>Image-HD</key>
+				<string>fleak.png</string>
+				<key>ImageURL</key>
+				<string>/Users/incisor/Programming/data/Fleak Data/fleak.png</string>
+				<key>ImageURL-HD</key>
+				<string>/Users/incisor/Programming/data/Fleak Data/fleak.png</string>
+				<key>Name</key>
+				<string>lands480_h.</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array>
+					<array>
+						<string>{33.235, 16.2513}</string>
+						<string>{33.235, 20.6261}</string>
+						<string>{29.798, 32.8131}</string>
+						<string>{26.673, 37.1879}</string>
+						<string>{23.236, 40.0003}</string>
+						<string>{15.736, 44.3751}</string>
+						<string>{27.923, 1.25189}</string>
+						<string>{32.923, 9.37659}</string>
+					</array>
+					<array>
+						<string>{-32.074, 9.68909}</string>
+						<string>{-28.949, 3.4393}</string>
+						<string>{-24.575, -0.935486}</string>
+						<string>{-18.325, 42.8127}</string>
+						<string>{-24.262, 38.1254}</string>
+						<string>{-28.324, 33.4381}</string>
+						<string>{-32.387, 20.3136}</string>
+						<string>{-32.387, 14.0639}</string>
+					</array>
+					<array>
+						<string>{29.798, 32.8131}</string>
+						<string>{33.235, 20.6261}</string>
+						<string>{31.986, 28.1258}</string>
+					</array>
+					<array>
+						<string>{-27.074, -20.9346}</string>
+						<string>{-24.575, -22.1846}</string>
+						<string>{-21.45, -22.1846}</string>
+						<string>{-14.575, -16.5598}</string>
+						<string>{-19.262, -14.3724}</string>
+						<string>{-23.325, -13.7474}</string>
+						<string>{-26.45, -14.9974}</string>
+						<string>{-28.324, -18.7472}</string>
+					</array>
+					<array>
+						<string>{-32.387, 20.3136}</string>
+						<string>{-28.324, 33.4381}</string>
+						<string>{-30.824, 29.6882}</string>
+						<string>{-31.762, 26.2509}</string>
+					</array>
+					<array>
+						<string>{-12.075, -9.37259}</string>
+						<string>{22.611, -4.3728}</string>
+						<string>{1.987, 47.5}</string>
+						<string>{-2.388, 47.5}</string>
+						<string>{-6.45001, 47.1875}</string>
+						<string>{-7.388, 46.5625}</string>
+						<string>{-24.575, -0.935486}</string>
+						<string>{-15.512, -7.81021}</string>
+					</array>
+					<array>
+						<string>{-19.575, -35.934}</string>
+						<string>{-17.387, -39.3714}</string>
+						<string>{-11.45, -45.6211}</string>
+						<string>{-9.263, -46.871}</string>
+						<string>{0.424011, -47.496}</string>
+						<string>{4.17401, -27.1844}</string>
+						<string>{-19.262, -26.8719}</string>
+						<string>{-19.887, -30.9342}</string>
+					</array>
+					<array>
+						<string>{31.361, 4.6893}</string>
+						<string>{32.923, 9.37659}</string>
+						<string>{27.923, 1.25189}</string>
+					</array>
+					<array>
+						<string>{22.611, -4.3728}</string>
+						<string>{27.923, 1.25189}</string>
+						<string>{15.736, 44.3751}</string>
+						<string>{11.361, 45.9376}</string>
+						<string>{7.612, 46.875}</string>
+						<string>{1.987, 47.5}</string>
+					</array>
+					<array>
+						<string>{-20.512, -4.9978}</string>
+						<string>{-15.512, -7.81021}</string>
+						<string>{-24.575, -0.935486}</string>
+					</array>
+					<array>
+						<string>{-19.262, -24.0595}</string>
+						<string>{-14.575, -16.5598}</string>
+						<string>{-21.45, -22.1846}</string>
+					</array>
+					<array>
+						<string>{-19.262, -26.8719}</string>
+						<string>{4.17401, -27.1844}</string>
+						<string>{5.112, -24.0595}</string>
+						<string>{-14.575, -16.5598}</string>
+						<string>{-19.262, -24.0595}</string>
+					</array>
+					<array>
+						<string>{23.548, -11.2475}</string>
+						<string>{23.548, -7.81021}</string>
+						<string>{22.611, -5.3103}</string>
+						<string>{8.862, -20.3097}</string>
+						<string>{13.549, -20.3097}</string>
+						<string>{18.861, -17.8098}</string>
+						<string>{21.673, -14.6849}</string>
+					</array>
+					<array>
+						<string>{-14.263, -44.0587}</string>
+						<string>{-11.45, -45.6211}</string>
+						<string>{-17.387, -39.3714}</string>
+					</array>
+					<array>
+						<string>{-18.325, 42.8127}</string>
+						<string>{-24.575, -0.935486}</string>
+						<string>{-7.388, 46.5625}</string>
+						<string>{-8.32501, 46.5625}</string>
+					</array>
+					<array>
+						<string>{8.862, -20.3097}</string>
+						<string>{22.611, -5.3103}</string>
+						<string>{22.611, -4.3728}</string>
+						<string>{-12.075, -9.37259}</string>
+						<string>{6.987, -21.8721}</string>
+					</array>
+					<array>
+						<string>{0.424011, -47.496}</string>
+						<string>{5.112, -44.3711}</string>
+						<string>{7.92401, -41.8712}</string>
+						<string>{9.48599, -38.4339}</string>
+						<string>{10.111, -35.934}</string>
+						<string>{8.862, -33.1216}</string>
+						<string>{6.67401, -29.9967}</string>
+						<string>{4.17401, -27.1844}</string>
+					</array>
+					<array>
+						<string>{-14.575, -16.5598}</string>
+						<string>{5.112, -24.0595}</string>
+						<string>{6.987, -21.8721}</string>
+						<string>{-12.075, -9.37259}</string>
+					</array>
+					<array>
+						<string>{15.736, 44.3751}</string>
+						<string>{23.236, 40.0003}</string>
+						<string>{19.486, 42.8127}</string>
+					</array>
+				</array>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsCircle</key>
+				<false/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>Mask</key>
+				<integer>65535</integer>
+				<key>PhysicType</key>
+				<integer>0</integer>
+				<key>Restitution</key>
+				<real>0.20000000298023224</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array>
+					<string>{308.675, 0.937469}</string>
+					<string>{298.675, 4.68732}</string>
+					<string>{292.738, 9.3746}</string>
+					<string>{288.676, 14.0619}</string>
+					<string>{286.176, 17.8118}</string>
+					<string>{285.238, 21.2491}</string>
+					<string>{284.613, 27.1864}</string>
+					<string>{284.613, 33.4361}</string>
+					<string>{284.926, 37.8109}</string>
+					<string>{288.051, 44.0607}</string>
+					<string>{292.425, 48.4355}</string>
+					<string>{296.488, 52.4978}</string>
+					<string>{301.488, 55.3102}</string>
+					<string>{304.925, 56.8726}</string>
+					<string>{302.425, 64.0598}</string>
+					<string>{297.738, 61.8724}</string>
+					<string>{293.675, 61.2474}</string>
+					<string>{290.55, 62.4974}</string>
+					<string>{288.676, 66.2472}</string>
+					<string>{289.926, 68.4346}</string>
+					<string>{292.425, 69.6846}</string>
+					<string>{295.55, 69.6846}</string>
+					<string>{297.738, 71.5595}</string>
+					<string>{297.738, 74.3719}</string>
+					<string>{297.113, 78.4342}</string>
+					<string>{297.425, 83.434}</string>
+					<string>{299.613, 86.8714}</string>
+					<string>{302.737, 91.5587}</string>
+					<string>{305.55, 93.1211}</string>
+					<string>{307.737, 94.371}</string>
+					<string>{317.424, 94.996}</string>
+					<string>{322.112, 91.8711}</string>
+					<string>{324.924, 89.3712}</string>
+					<string>{326.486, 85.9339}</string>
+					<string>{327.111, 83.434}</string>
+					<string>{325.862, 80.6216}</string>
+					<string>{323.674, 77.4967}</string>
+					<string>{321.174, 74.6844}</string>
+					<string>{322.112, 71.5595}</string>
+					<string>{323.987, 69.3721}</string>
+					<string>{325.862, 67.8097}</string>
+					<string>{330.549, 67.8097}</string>
+					<string>{335.861, 65.3098}</string>
+					<string>{338.673, 62.1849}</string>
+					<string>{340.548, 58.7475}</string>
+					<string>{340.548, 55.3102}</string>
+					<string>{339.611, 52.8103}</string>
+					<string>{339.611, 51.8728}</string>
+					<string>{344.923, 46.2481}</string>
+					<string>{348.361, 42.8107}</string>
+					<string>{349.923, 38.1234}</string>
+					<string>{350.235, 31.2487}</string>
+					<string>{350.235, 26.8739}</string>
+					<string>{348.986, 19.3742}</string>
+					<string>{346.798, 14.6869}</string>
+					<string>{343.673, 10.3121}</string>
+					<string>{340.236, 7.49969}</string>
+					<string>{336.486, 4.68732}</string>
+					<string>{332.736, 3.12488}</string>
+					<string>{328.361, 1.56244}</string>
+					<string>{324.612, 0.624969}</string>
+					<string>{318.987, 0}</string>
+					<string>{314.612, 0}</string>
+					<string>{310.55, 0.3125}</string>
+					<string>{309.612, 0.937469}</string>
+				</array>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{284, 0}, {66, 95}}</string>
+				<key>Frame-HD</key>
+				<string>{{284, 0}, {66, 95}}</string>
+				<key>FrameUV</key>
+				<string>{{0, 0.554688}, {0.185547, 0.683594}}</string>
+				<key>Image</key>
+				<string>fleak.png</string>
+				<key>Image-HD</key>
+				<string>fleak.png</string>
+				<key>ImageURL</key>
+				<string>/Users/incisor/Programming/data/Fleak Data/fleak.png</string>
+				<key>ImageURL-HD</key>
+				<string>/Users/incisor/Programming/data/Fleak Data/fleak.png</string>
+				<key>Name</key>
+				<string>tree_e.</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array>
+					<array>
+						<string>{51.464, 26.426}</string>
+						<string>{47.209, 27.703}</string>
+						<string>{6.35901, 27.277}</string>
+						<string>{28.912, -3.573}</string>
+						<string>{39.975, -0.167999}</string>
+						<string>{51.251, 9.40601}</string>
+						<string>{55.719, 14.937}</string>
+						<string>{55.719, 22.171}</string>
+					</array>
+					<array>
+						<string>{-48.319, 4.08701}</string>
+						<string>{-35.341, 27.064}</string>
+						<string>{-43.213, 27.703}</string>
+						<string>{-51.297, 27.702}</string>
+						<string>{-55.34, 23.873}</string>
+						<string>{-55.34, 20.256}</string>
+						<string>{-50.021, 4.299}</string>
+					</array>
+					<array>
+						<string>{55.081, 12.171}</string>
+						<string>{55.719, 14.937}</string>
+						<string>{51.251, 9.40601}</string>
+					</array>
+					<array>
+						<string>{50.613, 5.576}</string>
+						<string>{51.251, 9.40601}</string>
+						<string>{39.975, -0.167999}</string>
+						<string>{47.421, 1.746}</string>
+					</array>
+					<array>
+						<string>{-55.127, 6.00101}</string>
+						<string>{-53.425, 3.661}</string>
+						<string>{-51.297, 3.23599}</string>
+						<string>{-50.021, 4.299}</string>
+						<string>{-55.34, 20.256}</string>
+					</array>
+					<array>
+						<string>{-30.66, -17.614}</string>
+						<string>{-26.192, -18.04}</string>
+						<string>{-23.639, -17.189}</string>
+						<string>{-37.043, -6.12601}</string>
+						<string>{-34.277, -12.934}</string>
+					</array>
+					<array>
+						<string>{-42.149, -0.807007}</string>
+						<string>{-26.192, 26.851}</string>
+						<string>{-35.341, 27.064}</string>
+						<string>{-48.319, 4.08701}</string>
+					</array>
+					<array>
+						<string>{-23.639, -17.189}</string>
+						<string>{-21.299, -17.614}</string>
+						<string>{3.38101, -15.7}</string>
+						<string>{20.189, -11.445}</string>
+						<string>{6.35901, 27.277}</string>
+						<string>{-26.192, 26.851}</string>
+						<string>{-37.043, -6.12601}</string>
+					</array>
+					<array>
+						<string>{-1.29999, -18.678}</string>
+						<string>{3.38101, -15.7}</string>
+						<string>{-21.299, -17.614}</string>
+						<string>{-18.533, -22.295}</string>
+					</array>
+					<array>
+						<string>{-37.043, -6.12601}</string>
+						<string>{-26.192, 26.851}</string>
+						<string>{-42.149, -0.807007}</string>
+					</array>
+					<array>
+						<string>{-10.448, -28.465}</string>
+						<string>{-5.76801, -26.337}</string>
+						<string>{-3.853, -23.359}</string>
+						<string>{-1.29999, -18.678}</string>
+						<string>{-18.533, -22.295}</string>
+						<string>{-14.278, -27.401}</string>
+					</array>
+					<array>
+						<string>{24.656, -8.03999}</string>
+						<string>{28.912, -3.573}</string>
+						<string>{6.35901, 27.277}</string>
+						<string>{20.189, -11.445}</string>
+					</array>
+					<array>
+						<string>{10.189, -20.806}</string>
+						<string>{13.593, -19.955}</string>
+						<string>{17.21, -16.338}</string>
+						<string>{20.189, -11.445}</string>
+						<string>{7.423, -17.827}</string>
+					</array>
+					<array>
+						<string>{7.423, -17.827}</string>
+						<string>{20.189, -11.445}</string>
+						<string>{3.38101, -15.7}</string>
+					</array>
+				</array>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsCircle</key>
+				<false/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>Mask</key>
+				<integer>65535</integer>
+				<key>PhysicType</key>
+				<integer>0</integer>
+				<key>Restitution</key>
+				<real>0.20000000298023224</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array>
+					<string>{214.203, 189.298}</string>
+					<string>{210.16, 193.127}</string>
+					<string>{210.16, 196.744}</string>
+					<string>{210.373, 210.999}</string>
+					<string>{212.075, 213.339}</string>
+					<string>{214.203, 213.764}</string>
+					<string>{215.479, 212.701}</string>
+					<string>{217.181, 212.913}</string>
+					<string>{223.351, 217.807}</string>
+					<string>{228.457, 223.126}</string>
+					<string>{231.223, 229.934}</string>
+					<string>{234.84, 234.614}</string>
+					<string>{239.308, 235.04}</string>
+					<string>{241.861, 234.189}</string>
+					<string>{244.201, 234.614}</string>
+					<string>{246.967, 239.295}</string>
+					<string>{251.222, 244.401}</string>
+					<string>{255.052, 245.465}</string>
+					<string>{259.732, 243.337}</string>
+					<string>{261.647, 240.359}</string>
+					<string>{264.2, 235.678}</string>
+					<string>{268.881, 232.7}</string>
+					<string>{272.923, 234.827}</string>
+					<string>{275.689, 237.806}</string>
+					<string>{279.093, 236.955}</string>
+					<string>{282.71, 233.338}</string>
+					<string>{285.689, 228.445}</string>
+					<string>{290.156, 225.04}</string>
+					<string>{294.412, 220.573}</string>
+					<string>{305.475, 217.168}</string>
+					<string>{312.921, 215.254}</string>
+					<string>{316.113, 211.424}</string>
+					<string>{316.751, 207.594}</string>
+					<string>{320.581, 204.829}</string>
+					<string>{321.219, 202.063}</string>
+					<string>{321.219, 194.829}</string>
+					<string>{316.964, 190.574}</string>
+					<string>{312.709, 189.297}</string>
+					<string>{271.859, 189.723}</string>
+					<string>{252.499, 189.936}</string>
+					<string>{239.308, 190.149}</string>
+					<string>{230.159, 189.936}</string>
+					<string>{222.287, 189.297}</string>
+					<string>{215.054, 189.297}</string>
+				</array>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{210, 189}, {111, 56}}</string>
+				<key>Frame-HD</key>
+				<string>{{210, 189}, {111, 56}}</string>
+				<key>FrameUV</key>
+				<string>{{0.369141, 0.410156}, {0.478516, 0.626953}}</string>
+				<key>Image</key>
+				<string>fleak.png</string>
+				<key>Image-HD</key>
+				<string>fleak.png</string>
+				<key>ImageURL</key>
+				<string>/Users/incisor/Programming/data/Fleak Data/fleak.png</string>
+				<key>ImageURL-HD</key>
+				<string>/Users/incisor/Programming/data/Fleak Data/fleak.png</string>
+				<key>Name</key>
+				<string>lands480_b.</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array>
+					<array>
+						<string>{-57.436, 5.05099}</string>
+						<string>{-56.159, 2.073}</string>
+						<string>{-52.755, 1.647}</string>
+						<string>{-56.372, 6.966}</string>
+					</array>
+					<array>
+						<string>{51.283, -3.03299}</string>
+						<string>{55.75, -1.54401}</string>
+						<string>{57.878, 4.83899}</string>
+						<string>{56.814, 8.668}</string>
+						<string>{55.325, 12.923}</string>
+						<string>{52.772, 15.689}</string>
+						<string>{48.304, 18.242}</string>
+					</array>
+					<array>
+						<string>{-56.372, 6.966}</string>
+						<string>{-52.755, 1.647}</string>
+						<string>{-48.713, 0.584015}</string>
+						<string>{-50.202, 18.03}</string>
+						<string>{-55.308, 9.94501}</string>
+					</array>
+					<array>
+						<string>{-54.883, 13.774}</string>
+						<string>{-55.308, 9.94501}</string>
+						<string>{-50.202, 18.03}</string>
+						<string>{-50.415, 18.242}</string>
+					</array>
+					<array>
+						<string>{-44.67, -8.77802}</string>
+						<string>{-35.947, -3.03299}</string>
+						<string>{-47.223, -2.18201}</string>
+					</array>
+					<array>
+						<string>{-37.649, -6.22501}</string>
+						<string>{-35.947, -3.03299}</string>
+						<string>{-41.692, -6.86301}</string>
+					</array>
+					<array>
+						<string>{-48.713, 0.584015}</string>
+						<string>{-47.223, -2.18201}</string>
+						<string>{-35.947, -3.03299}</string>
+						<string>{-50.202, 18.03}</string>
+					</array>
+					<array>
+						<string>{-29.139, -7.71399}</string>
+						<string>{-23.607, -10.267}</string>
+						<string>{-17.438, -10.267}</string>
+						<string>{-9.56601, -8.77802}</string>
+						<string>{-50.202, 18.03}</string>
+						<string>{-35.947, -3.03299}</string>
+					</array>
+					<array>
+						<string>{3.20001, -14.309}</string>
+						<string>{8.944, -13.246}</string>
+						<string>{48.304, 18.242}</string>
+						<string>{-5.09799, -8.98999}</string>
+					</array>
+					<array>
+						<string>{15.327, -17.713}</string>
+						<string>{24.263, -13.033}</string>
+						<string>{48.304, 18.242}</string>
+						<string>{8.944, -13.246}</string>
+					</array>
+					<array>
+						<string>{28.73, -14.948}</string>
+						<string>{38.73, -9.41599}</string>
+						<string>{48.304, 18.242}</string>
+						<string>{24.263, -13.033}</string>
+					</array>
+					<array>
+						<string>{50.644, -5.586}</string>
+						<string>{51.283, -3.03299}</string>
+						<string>{48.304, 18.242}</string>
+						<string>{38.73, -9.41599}</string>
+						<string>{45.113, -8.98999}</string>
+						<string>{48.304, -7.50101}</string>
+					</array>
+					<array>
+						<string>{44.049, -13.884}</string>
+						<string>{45.113, -8.98999}</string>
+						<string>{38.73, -9.41599}</string>
+						<string>{39.794, -16.011}</string>
+						<string>{42.347, -16.437}</string>
+					</array>
+					<array>
+						<string>{24.263, -13.033}</string>
+						<string>{48.304, 18.242}</string>
+						<string>{-44.67, -8.77802}</string>
+					</array>
+					<array>
+						<string>{-9.56601, -8.77802}</string>
+						<string>{-5.09799, -8.98999}</string>
+						<string>{-50.0627, 18.0303}</string>
+						<string>{-50.0948, 18.0302}</string>
+					</array>
+					<array>
+						<string>{-17.438, -10.267}</string>
+						<string>{-9.56601, -8.77802}</string>
+						<string>{-50.0948, 18.0302}</string>
+						<string>{-50.1126, 18.0302}</string>
+					</array>
+					<array>
+						<string>{-5.09799, -8.98999}</string>
+						<string>{48.304, 18.242}</string>
+						<string>{-50.0627, 18.0303}</string>
+					</array>
+				</array>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsCircle</key>
+				<false/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>Mask</key>
+				<integer>65535</integer>
+				<key>PhysicType</key>
+				<integer>0</integer>
+				<key>Restitution</key>
+				<real>0.20000000298023224</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array>
+					<string>{220.585, 351.758}</string>
+					<string>{216.117, 356.226}</string>
+					<string>{215.692, 360.055}</string>
+					<string>{214.628, 363.034}</string>
+					<string>{213.564, 364.949}</string>
+					<string>{214.841, 367.927}</string>
+					<string>{218.245, 368.353}</string>
+					<string>{222.287, 369.416}</string>
+					<string>{223.777, 372.182}</string>
+					<string>{226.33, 378.778}</string>
+					<string>{229.308, 376.863}</string>
+					<string>{233.351, 376.225}</string>
+					<string>{235.053, 373.033}</string>
+					<string>{241.861, 377.714}</string>
+					<string>{247.393, 380.267}</string>
+					<string>{253.562, 380.267}</string>
+					<string>{261.434, 378.778}</string>
+					<string>{265.902, 378.99}</string>
+					<string>{274.2, 384.309}</string>
+					<string>{276.54, 385.16}</string>
+					<string>{279.944, 383.246}</string>
+					<string>{286.327, 387.713}</string>
+					<string>{289.305, 388.352}</string>
+					<string>{295.263, 383.033}</string>
+					<string>{299.73, 384.948}</string>
+					<string>{309.73, 379.416}</string>
+					<string>{310.794, 386.011}</string>
+					<string>{313.347, 386.437}</string>
+					<string>{315.049, 383.884}</string>
+					<string>{316.113, 378.99}</string>
+					<string>{319.304, 377.501}</string>
+					<string>{321.644, 375.586}</string>
+					<string>{322.283, 373.033}</string>
+					<string>{326.75, 371.544}</string>
+					<string>{328.878, 365.161}</string>
+					<string>{327.814, 361.332}</string>
+					<string>{326.325, 357.077}</string>
+					<string>{323.772, 354.311}</string>
+					<string>{319.304, 351.758}</string>
+					<string>{220.798, 351.97}</string>
+				</array>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{214, 352}, {114, 36}}</string>
+				<key>Frame-HD</key>
+				<string>{{214, 352}, {114, 36}}</string>
+				<key>FrameUV</key>
+				<string>{{0.6875, 0.417969}, {0.757812, 0.640625}}</string>
+				<key>Image</key>
+				<string>fleak.png</string>
+				<key>Image-HD</key>
+				<string>fleak.png</string>
+				<key>ImageURL</key>
+				<string>/Users/incisor/Programming/data/Fleak Data/fleak.png</string>
+				<key>ImageURL-HD</key>
+				<string>/Users/incisor/Programming/data/Fleak Data/fleak.png</string>
+				<key>Name</key>
+				<string>lands480_a</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array>
+					<array>
+						<string>{15.362, -15.244}</string>
+						<string>{23.799, -10.244}</string>
+						<string>{23.486, -2.74402}</string>
+						<string>{19.111, 1.31799}</string>
+						<string>{13.174, 3.19299}</string>
+						<string>{-15.262, -6.18201}</string>
+						<string>{-11.825, -8.681}</string>
+						<string>{-7.45001, -10.869}</string>
+					</array>
+					<array>
+						<string>{-24.012, 21.63}</string>
+						<string>{-24.012, 8.81799}</string>
+						<string>{-21.824, 3.50598}</string>
+						<string>{14.737, 14.755}</string>
+						<string>{13.487, 23.505}</string>
+						<string>{10.362, 30.379}</string>
+						<string>{-21.199, 29.129}</string>
+						<string>{-23.387, 25.38}</string>
+					</array>
+					<array>
+						<string>{10.674, -34.93}</string>
+						<string>{11.924, -31.18}</string>
+						<string>{11.924, -27.431}</string>
+						<string>{-7.45001, -27.431}</string>
+						<string>{-8.38699, -30.556}</string>
+						<string>{-0.575012, -39.93}</string>
+						<string>{4.737, -39.305}</string>
+						<string>{8.487, -37.118}</string>
+					</array>
+					<array>
+						<string>{-10.262, -38.055}</string>
+						<string>{-6.51199, -39.618}</string>
+						<string>{-0.575012, -39.93}</string>
+						<string>{-8.38699, -30.556}</string>
+						<string>{-12.137, -34.618}</string>
+					</array>
+					<array>
+						<string>{11.299, -23.056}</string>
+						<string>{15.362, -15.244}</string>
+						<string>{-7.45001, -10.869}</string>
+						<string>{-10.575, -15.869}</string>
+						<string>{-8.07501, -25.556}</string>
+						<string>{-7.45001, -27.431}</string>
+					</array>
+					<array>
+						<string>{-14.012, -23.368}</string>
+						<string>{-10.887, -24.618}</string>
+						<string>{-8.07501, -25.556}</string>
+						<string>{-10.575, -15.869}</string>
+						<string>{-15.262, -19.618}</string>
+					</array>
+					<array>
+						<string>{-11.825, -8.681}</string>
+						<string>{14.737, 14.755}</string>
+						<string>{13.487, 23.505}</string>
+						<string>{10.362, 30.379}</string>
+						<string>{6.29901, 36.0042}</string>
+						<string>{-4.32501, 40.379}</string>
+						<string>{-10.575, 39.754}</string>
+						<string>{-11.2, 39.1291}</string>
+					</array>
+					<array>
+						<string>{-16.2, 36.0042}</string>
+						<string>{-18.387, 33.817}</string>
+						<string>{-21.199, 29.129}</string>
+						<string>{10.362, 30.379}</string>
+						<string>{-11.2, 39.1291}</string>
+					</array>
+					<array>
+						<string>{-10.575, 39.754}</string>
+						<string>{10.362, 30.379}</string>
+						<string>{6.29901, 36.0042}</string>
+						<string>{-4.32501, 40.379}</string>
+					</array>
+					<array>
+						<string>{-7.45001, -27.431}</string>
+						<string>{11.924, -27.431}</string>
+						<string>{11.299, -23.056}</string>
+					</array>
+					<array>
+						<string>{14.737, 8.505}</string>
+						<string>{14.737, 14.755}</string>
+						<string>{-21.824, 3.50598}</string>
+						<string>{-19.012, -1.49402}</string>
+						<string>{-15.262, -6.18201}</string>
+						<string>{13.174, 3.19299}</string>
+					</array>
+				</array>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsCircle</key>
+				<false/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>Mask</key>
+				<integer>65535</integer>
+				<key>PhysicType</key>
+				<integer>0</integer>
+				<key>Restitution</key>
+				<real>0.20000000298023224</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array>
+					<string>{296.8, 100.871}</string>
+					<string>{291.8, 103.996}</string>
+					<string>{289.613, 106.183}</string>
+					<string>{286.801, 110.871}</string>
+					<string>{284.613, 114.62}</string>
+					<string>{283.988, 118.37}</string>
+					<string>{283.988, 131.182}</string>
+					<string>{286.176, 136.494}</string>
+					<string>{288.988, 141.494}</string>
+					<string>{292.738, 146.182}</string>
+					<string>{296.175, 148.681}</string>
+					<string>{300.55, 150.869}</string>
+					<string>{297.425, 155.869}</string>
+					<string>{292.738, 159.618}</string>
+					<string>{293.988, 163.368}</string>
+					<string>{297.113, 164.618}</string>
+					<string>{299.925, 165.556}</string>
+					<string>{300.55, 167.431}</string>
+					<string>{299.613, 170.556}</string>
+					<string>{295.863, 174.618}</string>
+					<string>{297.738, 178.055}</string>
+					<string>{301.488, 179.618}</string>
+					<string>{307.425, 179.93}</string>
+					<string>{312.737, 179.305}</string>
+					<string>{316.487, 177.118}</string>
+					<string>{318.674, 174.93}</string>
+					<string>{319.924, 171.18}</string>
+					<string>{319.924, 167.431}</string>
+					<string>{319.299, 163.056}</string>
+					<string>{323.362, 155.244}</string>
+					<string>{331.799, 150.244}</string>
+					<string>{331.486, 142.744}</string>
+					<string>{327.111, 138.682}</string>
+					<string>{321.174, 136.807}</string>
+					<string>{322.737, 131.495}</string>
+					<string>{322.737, 125.245}</string>
+					<string>{321.487, 116.495}</string>
+					<string>{318.362, 109.621}</string>
+					<string>{314.299, 103.996}</string>
+					<string>{308.987, 100.558}</string>
+					<string>{303.675, 99.621}</string>
+					<string>{297.425, 100.246}</string>
+				</array>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{284, 100}, {48, 80}}</string>
+				<key>Frame-HD</key>
+				<string>{{284, 100}, {48, 80}}</string>
+				<key>FrameUV</key>
+				<string>{{0.195312, 0.554688}, {0.351562, 0.648438}}</string>
+				<key>Image</key>
+				<string>fleak.png</string>
+				<key>Image-HD</key>
+				<string>fleak.png</string>
+				<key>ImageURL</key>
+				<string>/Users/incisor/Programming/data/Fleak Data/fleak.png</string>
+				<key>ImageURL-HD</key>
+				<string>/Users/incisor/Programming/data/Fleak Data/fleak.png</string>
+				<key>Name</key>
+				<string>tree_b.</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array>
+					<array>
+						<string>{21.523, -11.724}</string>
+						<string>{25.566, -10.661}</string>
+						<string>{25.14, -5.98001}</string>
+						<string>{23.013, -3.21399}</string>
+						<string>{18.758, -2.789}</string>
+						<string>{14.503, -3.85199}</string>
+					</array>
+					<array>
+						<string>{-24.857, 12.317}</string>
+						<string>{-24.219, 8.70001}</string>
+						<string>{-20.389, 4.87}</string>
+						<string>{-13.581, 28.912}</string>
+						<string>{-14.219, 29.125}</string>
+						<string>{-20.389, 25.082}</string>
+						<string>{-24.432, 19.125}</string>
+						<string>{-25.07, 16.572}</string>
+					</array>
+					<array>
+						<string>{-20.815, -7.04401}</string>
+						<string>{-16.985, -11.299}</string>
+						<string>{-12.943, -13.001}</string>
+						<string>{-9.11301, -13.001}</string>
+						<string>{10.035, -0.235992}</string>
+						<string>{-18.9, 2.95599}</string>
+						<string>{-19.751, 1.04099}</string>
+						<string>{-21.666, -3.85199}</string>
+					</array>
+					<array>
+						<string>{-18.9, 2.95599}</string>
+						<string>{10.035, -0.235992}</string>
+						<string>{10.247, 30.188}</string>
+						<string>{6.20502, 31.252}</string>
+						<string>{-0.602997, 32.103}</string>
+						<string>{-5.284, 32.103}</string>
+						<string>{-13.581, 28.912}</string>
+						<string>{-20.389, 4.87}</string>
+					</array>
+					<array>
+						<string>{17.694, 4.01999}</string>
+						<string>{21.949, 9.76401}</string>
+						<string>{23.013, 14.445}</string>
+						<string>{22.587, 18.7}</string>
+						<string>{20.034, 22.955}</string>
+						<string>{14.928, 27.635}</string>
+						<string>{10.247, 30.188}</string>
+						<string>{10.035, -0.235992}</string>
+					</array>
+					<array>
+						<string>{-4.858, -28.107}</string>
+						<string>{16.417, -30.021}</string>
+						<string>{18.332, -24.064}</string>
+						<string>{19.183, -18.958}</string>
+						<string>{18.119, -13.852}</string>
+						<string>{14.503, -3.85199}</string>
+						<string>{-0.390015, -18.958}</string>
+						<string>{-5.07098, -26.192}</string>
+					</array>
+					<array>
+						<string>{-6.56, -14.277}</string>
+						<string>{10.035, -0.235992}</string>
+						<string>{-9.11301, -13.001}</string>
+					</array>
+					<array>
+						<string>{-0.390015, -18.958}</string>
+						<string>{14.503, -3.85199}</string>
+						<string>{10.035, -0.235992}</string>
+						<string>{-6.56, -14.277}</string>
+					</array>
+					<array>
+						<string>{18.119, -13.852}</string>
+						<string>{21.523, -11.724}</string>
+						<string>{14.503, -3.85199}</string>
+					</array>
+					<array>
+						<string>{-4.858, -29.809}</string>
+						<string>{16.417, -30.021}</string>
+						<string>{-4.858, -28.107}</string>
+					</array>
+				</array>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsCircle</key>
+				<false/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>Mask</key>
+				<integer>65535</integer>
+				<key>PhysicType</key>
+				<integer>0</integer>
+				<key>Restitution</key>
+				<real>0.20000000298023224</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array>
+					<string>{143.781, 345.375}</string>
+					<string>{137.611, 349.418}</string>
+					<string>{133.568, 355.375}</string>
+					<string>{132.93, 357.928}</string>
+					<string>{133.143, 362.183}</string>
+					<string>{133.781, 365.8}</string>
+					<string>{137.611, 369.63}</string>
+					<string>{139.1, 371.544}</string>
+					<string>{138.249, 373.459}</string>
+					<string>{136.334, 378.352}</string>
+					<string>{137.185, 381.544}</string>
+					<string>{141.015, 385.799}</string>
+					<string>{145.057, 387.501}</string>
+					<string>{148.887, 387.501}</string>
+					<string>{151.44, 388.777}</string>
+					<string>{157.61, 393.458}</string>
+					<string>{152.929, 400.692}</string>
+					<string>{153.142, 402.607}</string>
+					<string>{153.142, 404.309}</string>
+					<string>{174.417, 404.521}</string>
+					<string>{176.332, 398.564}</string>
+					<string>{177.183, 393.458}</string>
+					<string>{176.119, 388.352}</string>
+					<string>{179.523, 386.224}</string>
+					<string>{183.566, 385.161}</string>
+					<string>{183.14, 380.48}</string>
+					<string>{181.013, 377.714}</string>
+					<string>{176.758, 377.289}</string>
+					<string>{172.503, 378.352}</string>
+					<string>{168.035, 374.736}</string>
+					<string>{175.694, 370.48}</string>
+					<string>{179.949, 364.736}</string>
+					<string>{181.013, 360.055}</string>
+					<string>{180.587, 355.8}</string>
+					<string>{178.034, 351.545}</string>
+					<string>{172.928, 346.865}</string>
+					<string>{168.247, 344.312}</string>
+					<string>{164.205, 343.248}</string>
+					<string>{157.397, 342.397}</string>
+					<string>{152.716, 342.397}</string>
+					<string>{144.419, 345.588}</string>
+				</array>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{133, 343}, {50, 63}}</string>
+				<key>Frame-HD</key>
+				<string>{{133, 343}, {50, 63}}</string>
+				<key>FrameUV</key>
+				<string>{{0.669922, 0.259766}, {0.792969, 0.357422}}</string>
+				<key>Image</key>
+				<string>fleak.png</string>
+				<key>Image-HD</key>
+				<string>fleak.png</string>
+				<key>ImageURL</key>
+				<string>/Users/incisor/Programming/data/Fleak Data/fleak.png</string>
+				<key>ImageURL-HD</key>
+				<string>/Users/incisor/Programming/data/Fleak Data/fleak.png</string>
+				<key>Name</key>
+				<string>tree_a.</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array>
+					<array>
+						<string>{16.323, -8.073}</string>
+						<string>{19.089, -7.009}</string>
+						<string>{18.026, -3.60498}</string>
+						<string>{14.834, -1.47699}</string>
+						<string>{-5.80301, -9.77499}</string>
+						<string>{-3.67599, -11.689}</string>
+						<string>{13.77, -8.711}</string>
+					</array>
+					<array>
+						<string>{-18.143, 13.203}</string>
+						<string>{-17.93, 6.82001}</string>
+						<string>{-16.015, 4.47998}</string>
+						<string>{13.345, 4.05499}</string>
+						<string>{-5.37799, 23.203}</string>
+						<string>{-6.01599, 23.203}</string>
+						<string>{-13.888, 19.16}</string>
+						<string>{-16.654, 15.969}</string>
+					</array>
+					<array>
+						<string>{13.345, 4.05499}</string>
+						<string>{16.749, 8.09698}</string>
+						<string>{15.898, 13.841}</string>
+						<string>{13.558, 17.884}</string>
+						<string>{10.366, 20.649}</string>
+						<string>{3.55801, 23.628}</string>
+						<string>{-5.37799, 23.203}</string>
+					</array>
+					<array>
+						<string>{-15.59, -4.24298}</string>
+						<string>{-12.611, -8.073}</string>
+						<string>{-7.71799, -9.56201}</string>
+						<string>{-5.80301, -9.77499}</string>
+						<string>{14.834, -1.47699}</string>
+						<string>{13.345, 4.05499}</string>
+						<string>{-14.952, -0.412994}</string>
+					</array>
+					<array>
+						<string>{11.43, -22.327}</string>
+						<string>{13.132, -18.923}</string>
+						<string>{13.77, -15.306}</string>
+						<string>{13.345, -9.77499}</string>
+						<string>{-3.67599, -11.689}</string>
+						<string>{-3.46301, -19.561}</string>
+						<string>{-2.82501, -21.689}</string>
+					</array>
+					<array>
+						<string>{-14.952, -0.412994}</string>
+						<string>{13.345, 4.05499}</string>
+						<string>{-16.015, 4.47998}</string>
+					</array>
+					<array>
+						<string>{13.345, -9.77499}</string>
+						<string>{13.77, -8.711}</string>
+						<string>{-3.67599, -11.689}</string>
+					</array>
+				</array>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsCircle</key>
+				<false/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>Mask</key>
+				<integer>65535</integer>
+				<key>PhysicType</key>
+				<integer>0</integer>
+				<key>Restitution</key>
+				<real>0.20000000298023224</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array>
+					<string>{337.984, 189.297}</string>
+					<string>{330.112, 193.34}</string>
+					<string>{327.346, 196.531}</string>
+					<string>{325.857, 199.297}</string>
+					<string>{326.07, 205.68}</string>
+					<string>{327.985, 208.02}</string>
+					<string>{329.048, 212.913}</string>
+					<string>{328.41, 216.743}</string>
+					<string>{331.389, 220.573}</string>
+					<string>{336.282, 222.062}</string>
+					<string>{338.197, 222.275}</string>
+					<string>{340.324, 224.189}</string>
+					<string>{340.537, 232.061}</string>
+					<string>{341.175, 234.189}</string>
+					<string>{355.43, 234.827}</string>
+					<string>{357.132, 231.423}</string>
+					<string>{357.77, 227.806}</string>
+					<string>{357.345, 222.275}</string>
+					<string>{357.77, 221.211}</string>
+					<string>{360.323, 220.573}</string>
+					<string>{363.089, 219.509}</string>
+					<string>{362.026, 216.105}</string>
+					<string>{358.834, 213.977}</string>
+					<string>{357.345, 208.445}</string>
+					<string>{360.749, 204.403}</string>
+					<string>{359.898, 198.659}</string>
+					<string>{357.558, 194.616}</string>
+					<string>{354.366, 191.851}</string>
+					<string>{350.537, 190.148}</string>
+					<string>{347.558, 188.872}</string>
+					<string>{338.622, 189.297}</string>
+				</array>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{326, 189}, {36, 47}}</string>
+				<key>Frame-HD</key>
+				<string>{{326, 189}, {36, 47}}</string>
+				<key>FrameUV</key>
+				<string>{{0.369141, 0.636719}, {0.460938, 0.707031}}</string>
+				<key>Image</key>
+				<string>fleak.png</string>
+				<key>Image-HD</key>
+				<string>fleak.png</string>
+				<key>ImageURL</key>
+				<string>/Users/incisor/Programming/data/Fleak Data/fleak.png</string>
+				<key>ImageURL-HD</key>
+				<string>/Users/incisor/Programming/data/Fleak Data/fleak.png</string>
+				<key>Name</key>
+				<string>tree_c.</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array>
+					<array>
+						<string>{-12.732, -6.25699}</string>
+						<string>{-9.11499, -7.95901}</string>
+						<string>{6.629, -5.83099}</string>
+						<string>{-8.90302, 1.40201}</string>
+						<string>{-12.732, -0.511993}</string>
+						<string>{-14.009, -3.91599}</string>
+					</array>
+					<array>
+						<string>{12.799, 2.04099}</string>
+						<string>{14.288, 5.44501}</string>
+						<string>{14.075, 11.827}</string>
+						<string>{12.16, 16.295}</string>
+						<string>{-8.26401, 12.04}</string>
+						<string>{-7.62601, 3.53}</string>
+						<string>{6.629, -5.83099}</string>
+						<string>{9.82001, -2.64001}</string>
+					</array>
+					<array>
+						<string>{-4.85999, -21.575}</string>
+						<string>{6.841, -21.575}</string>
+						<string>{7.267, -17.746}</string>
+						<string>{6.629, -15.405}</string>
+						<string>{-6.98801, -11.576}</string>
+						<string>{-6.77499, -14.554}</string>
+						<string>{-5.49799, -20.511}</string>
+					</array>
+					<array>
+						<string>{-8.90302, 6.08301}</string>
+						<string>{-7.62601, 3.53}</string>
+						<string>{-8.26401, 12.04}</string>
+					</array>
+					<array>
+						<string>{7.267, -14.129}</string>
+						<string>{7.47998, -7.746}</string>
+						<string>{6.629, -5.83099}</string>
+						<string>{-9.11499, -7.95901}</string>
+						<string>{-6.98801, -11.576}</string>
+						<string>{6.629, -15.405}</string>
+					</array>
+					<array>
+						<string>{-8.26401, 12.04}</string>
+						<string>{12.16, 16.295}</string>
+						<string>{4.71399, 22.465}</string>
+						<string>{-1.24298, 22.252}</string>
+						<string>{-1.88202, 21.827}</string>
+					</array>
+					<array>
+						<string>{-5.711, 18.21}</string>
+						<string>{-8.26401, 12.04}</string>
+						<string>{12.16, 16.295}</string>
+						<string>{9.18201, 20.338}</string>
+						<string>{4.71399, 22.465}</string>
+						<string>{-1.88202, 21.827}</string>
+					</array>
+					<array>
+						<string>{7.47998, -7.746}</string>
+						<string>{7.267, -14.129}</string>
+						<string>{9.82001, -12.214}</string>
+						<string>{9.60699, -8.59698}</string>
+					</array>
+					<array>
+						<string>{6.841, -21.575}</string>
+						<string>{8.33099, -19.66}</string>
+						<string>{7.267, -17.746}</string>
+					</array>
+					<array>
+						<string>{-8.90302, 1.40201}</string>
+						<string>{6.629, -5.83099}</string>
+						<string>{-7.62601, 3.53}</string>
+					</array>
+				</array>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsCircle</key>
+				<false/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>Mask</key>
+				<integer>65535</integer>
+				<key>PhysicType</key>
+				<integer>0</integer>
+				<key>Restitution</key>
+				<real>0.20000000298023224</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array>
+					<string>{145.118, 411.673}</string>
+					<string>{141.289, 415.29}</string>
+					<string>{138.736, 421.46}</string>
+					<string>{138.097, 427.417}</string>
+					<string>{139.374, 429.97}</string>
+					<string>{138.097, 432.098}</string>
+					<string>{134.268, 434.012}</string>
+					<string>{132.991, 437.416}</string>
+					<string>{134.268, 439.757}</string>
+					<string>{137.885, 441.459}</string>
+					<string>{140.012, 445.076}</string>
+					<string>{140.225, 448.054}</string>
+					<string>{141.076, 452.097}</string>
+					<string>{141.502, 454.011}</string>
+					<string>{142.14, 455.075}</string>
+					<string>{153.841, 455.075}</string>
+					<string>{155.331, 453.16}</string>
+					<string>{154.267, 451.246}</string>
+					<string>{153.629, 448.905}</string>
+					<string>{154.267, 447.629}</string>
+					<string>{156.82, 445.714}</string>
+					<string>{156.607, 442.097}</string>
+					<string>{154.48, 441.246}</string>
+					<string>{153.629, 439.331}</string>
+					<string>{156.82, 436.14}</string>
+					<string>{159.799, 431.459}</string>
+					<string>{161.288, 428.055}</string>
+					<string>{161.075, 421.673}</string>
+					<string>{159.16, 417.205}</string>
+					<string>{156.182, 413.162}</string>
+					<string>{151.714, 411.035}</string>
+					<string>{145.757, 411.248}</string>
+				</array>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{133, 411}, {28, 45}}</string>
+				<key>Frame-HD</key>
+				<string>{{133, 411}, {28, 45}}</string>
+				<key>FrameUV</key>
+				<string>{{0.802734, 0.259766}, {0.890625, 0.314453}}</string>
+				<key>Image</key>
+				<string>fleak.png</string>
+				<key>Image-HD</key>
+				<string>fleak.png</string>
+				<key>ImageURL</key>
+				<string>/Users/incisor/Programming/data/Fleak Data/fleak.png</string>
+				<key>ImageURL-HD</key>
+				<string>/Users/incisor/Programming/data/Fleak Data/fleak.png</string>
+				<key>Name</key>
+				<string>tree_d.</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array>
+					<array>
+						<string>{-26.708, 4.745}</string>
+						<string>{-24.794, 0.915009}</string>
+						<string>{-25.645, 6.87201}</string>
+					</array>
+					<array>
+						<string>{-25.645, 6.87201}</string>
+						<string>{-24.794, 0.915009}</string>
+						<string>{-23.942, -1}</string>
+						<string>{-18.624, -2.702}</string>
+						<string>{-15.645, -2.702}</string>
+						<string>{-24.581, 9.21301}</string>
+						<string>{-25.006, 8.362}</string>
+					</array>
+					<array>
+						<string>{26.055, 0.915009}</string>
+						<string>{26.481, 4.319}</string>
+						<string>{25.63, 7.51099}</string>
+						<string>{23.715, 9.42599}</string>
+						<string>{14.354, -4.40399}</string>
+						<string>{18.821, -3.34}</string>
+						<string>{24.991, -1.21201}</string>
+					</array>
+					<array>
+						<string>{-15.645, -2.702}</string>
+						<string>{-11.815, -5.67999}</string>
+						<string>{-8.62399, -6.957}</string>
+						<string>{-4.369, -6.53101}</string>
+						<string>{23.715, 9.42599}</string>
+						<string>{-24.581, 9.21301}</string>
+					</array>
+					<array>
+						<string>{14.354, -4.40399}</string>
+						<string>{23.715, 9.42599}</string>
+						<string>{-4.369, -6.53101}</string>
+						<string>{-2.66701, -7.80801}</string>
+						<string>{5.631, -6.53101}</string>
+					</array>
+					<array>
+						<string>{-1.17799, -9.297}</string>
+						<string>{2.226, -9.297}</string>
+						<string>{5.631, -6.53101}</string>
+						<string>{-2.66701, -7.80801}</string>
+					</array>
+					<array>
+						<string>{8.82201, -6.74399}</string>
+						<string>{11.588, -6.53101}</string>
+						<string>{14.354, -4.40399}</string>
+						<string>{5.631, -6.53101}</string>
+					</array>
+				</array>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsCircle</key>
+				<false/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>Mask</key>
+				<integer>65535</integer>
+				<key>PhysicType</key>
+				<integer>0</integer>
+				<key>Restitution</key>
+				<real>0.20000000298023224</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array>
+					<string>{214.994, 394.138}</string>
+					<string>{214.355, 395.628}</string>
+					<string>{213.292, 397.755}</string>
+					<string>{215.206, 401.585}</string>
+					<string>{216.058, 403.5}</string>
+					<string>{221.376, 405.202}</string>
+					<string>{224.355, 405.202}</string>
+					<string>{228.185, 408.18}</string>
+					<string>{231.376, 409.457}</string>
+					<string>{235.631, 409.031}</string>
+					<string>{237.333, 410.308}</string>
+					<string>{238.822, 411.797}</string>
+					<string>{242.226, 411.797}</string>
+					<string>{245.631, 409.031}</string>
+					<string>{248.822, 409.244}</string>
+					<string>{251.588, 409.031}</string>
+					<string>{254.354, 406.904}</string>
+					<string>{258.821, 405.84}</string>
+					<string>{264.991, 403.712}</string>
+					<string>{266.055, 401.585}</string>
+					<string>{266.481, 398.181}</string>
+					<string>{265.63, 394.989}</string>
+					<string>{263.715, 393.074}</string>
+					<string>{215.419, 393.287}</string>
+				</array>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{214, 393}, {52, 19}}</string>
+				<key>Frame-HD</key>
+				<string>{{214, 393}, {52, 19}}</string>
+				<key>FrameUV</key>
+				<string>{{0.767578, 0.417969}, {0.804688, 0.519531}}</string>
+				<key>Image</key>
+				<string>fleak.png</string>
+				<key>Image-HD</key>
+				<string>fleak.png</string>
+				<key>ImageURL</key>
+				<string>/Users/incisor/Programming/data/Fleak Data/fleak.png</string>
+				<key>ImageURL-HD</key>
+				<string>/Users/incisor/Programming/data/Fleak Data/fleak.png</string>
+				<key>Name</key>
+				<string>lands480_f</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array>
+					<array>
+						<string>{20.523, -3.33899}</string>
+						<string>{24.353, -1.63699}</string>
+						<string>{26.055, 1.34201}</string>
+						<string>{25.842, 5.17099}</string>
+						<string>{23.715, 9.21399}</string>
+						<string>{16.907, 9.21399}</string>
+						<string>{14.779, -4.19}</string>
+					</array>
+					<array>
+						<string>{-26.283, 4.95901}</string>
+						<string>{-25.857, 2.61801}</string>
+						<string>{-24.794, 0.490997}</string>
+						<string>{-20.538, -2.70099}</string>
+						<string>{-17.773, 9.00101}</string>
+						<string>{-20.964, 9.63901}</string>
+						<string>{-24.368, 9.00101}</string>
+						<string>{-25.006, 8.36301}</string>
+					</array>
+					<array>
+						<string>{-20.538, -2.70099}</string>
+						<string>{-13.73, -3.97699}</string>
+						<string>{-14.581, 8.57599}</string>
+						<string>{-17.773, 9.00101}</string>
+					</array>
+					<array>
+						<string>{-20.964, 9.63901}</string>
+						<string>{-13.73, -3.97699}</string>
+						<string>{-14.581, 8.57599}</string>
+					</array>
+					<array>
+						<string>{-13.73, -3.97699}</string>
+						<string>{-10.539, -5.892}</string>
+						<string>{-10.113, 9.00101}</string>
+						<string>{-14.581, 8.57599}</string>
+					</array>
+					<array>
+						<string>{-10.539, -5.892}</string>
+						<string>{-8.62399, -7.168}</string>
+						<string>{-5.645, -7.168}</string>
+						<string>{5.418, -6.74301}</string>
+						<string>{-2.02901, 9.85199}</string>
+						<string>{-8.83701, 9.85199}</string>
+						<string>{-10.113, 9.00101}</string>
+					</array>
+					<array>
+						<string>{14.779, -4.19}</string>
+						<string>{16.907, 9.21399}</string>
+						<string>{13.928, 8.78799}</string>
+					</array>
+					<array>
+						<string>{0.098999, -10.147}</string>
+						<string>{2.439, -9.29599}</string>
+						<string>{5.418, -6.74301}</string>
+						<string>{-5.645, -7.168}</string>
+						<string>{-2.241, -9.08301}</string>
+					</array>
+					<array>
+						<string>{8.396, -6.74301}</string>
+						<string>{10.524, -6.74301}</string>
+						<string>{14.779, -4.19}</string>
+						<string>{13.928, 8.78799}</string>
+						<string>{9.673, 9.00101}</string>
+					</array>
+					<array>
+						<string>{-2.02901, 9.85199}</string>
+						<string>{5.418, -6.74301}</string>
+						<string>{8.396, -6.74301}</string>
+						<string>{9.673, 9.00101}</string>
+						<string>{6.907, 9.42599}</string>
+					</array>
+				</array>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsCircle</key>
+				<false/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>Mask</key>
+				<integer>65535</integer>
+				<key>PhysicType</key>
+				<integer>0</integer>
+				<key>Restitution</key>
+				<real>0.20000000298023224</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array>
+					<string>{214.994, 418.137}</string>
+					<string>{213.717, 421.541}</string>
+					<string>{214.143, 423.882}</string>
+					<string>{215.206, 426.009}</string>
+					<string>{219.462, 429.201}</string>
+					<string>{226.27, 430.477}</string>
+					<string>{229.461, 432.392}</string>
+					<string>{231.376, 433.668}</string>
+					<string>{234.355, 433.668}</string>
+					<string>{237.759, 435.583}</string>
+					<string>{240.099, 436.647}</string>
+					<string>{242.439, 435.796}</string>
+					<string>{245.418, 433.243}</string>
+					<string>{248.396, 433.243}</string>
+					<string>{250.524, 433.243}</string>
+					<string>{254.779, 430.69}</string>
+					<string>{260.523, 429.839}</string>
+					<string>{264.353, 428.137}</string>
+					<string>{266.055, 425.158}</string>
+					<string>{265.842, 421.329}</string>
+					<string>{263.715, 417.286}</string>
+					<string>{260.311, 417.286}</string>
+					<string>{256.907, 417.286}</string>
+					<string>{253.928, 417.712}</string>
+					<string>{249.673, 417.499}</string>
+					<string>{246.907, 417.074}</string>
+					<string>{243.29, 416.861}</string>
+					<string>{237.971, 416.648}</string>
+					<string>{234.142, 416.648}</string>
+					<string>{231.163, 416.648}</string>
+					<string>{229.887, 417.499}</string>
+					<string>{225.419, 417.924}</string>
+					<string>{222.227, 417.499}</string>
+					<string>{219.036, 416.861}</string>
+					<string>{215.632, 417.499}</string>
+				</array>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{214, 417}, {52, 19}}</string>
+				<key>Frame-HD</key>
+				<string>{{214, 417}, {52, 19}}</string>
+				<key>FrameUV</key>
+				<string>{{0.814453, 0.417969}, {0.851562, 0.519531}}</string>
+				<key>Image</key>
+				<string>fleak.png</string>
+				<key>Image-HD</key>
+				<string>fleak.png</string>
+				<key>ImageURL</key>
+				<string>/Users/incisor/Programming/data/Fleak Data/fleak.png</string>
+				<key>ImageURL-HD</key>
+				<string>/Users/incisor/Programming/data/Fleak Data/fleak.png</string>
+				<key>Name</key>
+				<string>lands480_g</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array/>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsCircle</key>
+				<false/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>Mask</key>
+				<integer>65535</integer>
+				<key>PhysicType</key>
+				<integer>0</integer>
+				<key>Restitution</key>
+				<real>0.20000000298023224</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array/>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{166, 411}, {28, 27}}</string>
+				<key>Frame-HD</key>
+				<string>{{166, 411}, {28, 27}}</string>
+				<key>FrameUV</key>
+				<string>{{0.802734, 0.324219}, {0.855469, 0.378906}}</string>
+				<key>Image</key>
+				<string>fleak.png</string>
+				<key>Image-HD</key>
+				<string>fleak.png</string>
+				<key>ImageURL</key>
+				<string>/Users/incisor/Programming/data/Fleak Data/fleak.png</string>
+				<key>ImageURL-HD</key>
+				<string>/Users/incisor/Programming/data/Fleak Data/fleak.png</string>
+				<key>Name</key>
+				<string>door.</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array>
+					<array>
+						<string>{-14.292, 4.92798}</string>
+						<string>{-14.079, 7.694}</string>
+						<string>{-14.505, 7.694}</string>
+					</array>
+					<array>
+						<string>{15.494, -2.73102}</string>
+						<string>{15.919, 0.247986}</string>
+						<string>{15.068, 3.86499}</string>
+						<string>{14.005, 6.20502}</string>
+						<string>{10.388, 7.90698}</string>
+						<string>{6.98401, 8.332}</string>
+						<string>{6.55801, -7.62399}</string>
+						<string>{13.579, -6.34802}</string>
+					</array>
+					<array>
+						<string>{15.068, -5.07098}</string>
+						<string>{15.494, -2.73102}</string>
+						<string>{13.579, -6.34802}</string>
+					</array>
+					<array>
+						<string>{-14.717, -1.02899}</string>
+						<string>{-11.526, -3.15601}</string>
+						<string>{-4.505, -7.41101}</string>
+						<string>{-0.463013, -7.83701}</string>
+						<string>{-4.07999, 8.332}</string>
+						<string>{-10.675, 8.332}</string>
+						<string>{-14.292, 4.92798}</string>
+						<string>{-14.717, 1.31201}</string>
+					</array>
+					<array>
+						<string>{-14.292, 4.92798}</string>
+						<string>{-10.675, 8.332}</string>
+						<string>{-14.079, 7.694}</string>
+					</array>
+					<array>
+						<string>{-8.548, -6.98599}</string>
+						<string>{-4.505, -7.41101}</string>
+						<string>{-11.526, -3.15601}</string>
+						<string>{-10.675, -5.284}</string>
+					</array>
+					<array>
+						<string>{-0.463013, -7.83701}</string>
+						<string>{6.55801, -7.62399}</string>
+						<string>{6.98401, 8.332}</string>
+						<string>{-4.07999, 8.332}</string>
+					</array>
+				</array>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsCircle</key>
+				<false/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>Mask</key>
+				<integer>65535</integer>
+				<key>PhysicType</key>
+				<integer>0</integer>
+				<key>Restitution</key>
+				<real>0.20000000298023224</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array>
+					<string>{326.708, 244.572}</string>
+					<string>{326.495, 241.806}</string>
+					<string>{326.921, 241.806}</string>
+					<string>{330.325, 241.168}</string>
+					<string>{336.92, 241.168}</string>
+					<string>{347.984, 241.168}</string>
+					<string>{351.388, 241.593}</string>
+					<string>{355.005, 243.295}</string>
+					<string>{356.068, 245.635}</string>
+					<string>{356.919, 249.252}</string>
+					<string>{356.494, 252.231}</string>
+					<string>{356.068, 254.571}</string>
+					<string>{354.579, 255.848}</string>
+					<string>{347.558, 257.124}</string>
+					<string>{340.537, 257.337}</string>
+					<string>{336.495, 256.911}</string>
+					<string>{332.452, 256.486}</string>
+					<string>{330.325, 254.784}</string>
+					<string>{329.474, 252.656}</string>
+					<string>{326.283, 250.529}</string>
+					<string>{326.283, 248.188}</string>
+				</array>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{326, 241}, {30, 17}}</string>
+				<key>Frame-HD</key>
+				<string>{{326, 241}, {30, 17}}</string>
+				<key>FrameUV</key>
+				<string>{{0.470703, 0.636719}, {0.503906, 0.695312}}</string>
+				<key>Image</key>
+				<string>fleak.png</string>
+				<key>Image-HD</key>
+				<string>fleak.png</string>
+				<key>ImageURL</key>
+				<string>/Users/incisor/Programming/data/Fleak Data/fleak.png</string>
+				<key>ImageURL-HD</key>
+				<string>/Users/incisor/Programming/data/Fleak Data/fleak.png</string>
+				<key>Name</key>
+				<string>monster</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array>
+					<array>
+						<string>{8.67099, -8.19699}</string>
+						<string>{10.043, -5.84399}</string>
+						<string>{9.84698, 1.80301}</string>
+						<string>{-4.466, 7.4889}</string>
+						<string>{-9.56299, -1.334}</string>
+						<string>{-9.56299, -4.27499}</string>
+						<string>{-6.23001, -9.569}</string>
+						<string>{7.298, -9.765}</string>
+					</array>
+					<array>
+						<string>{6.90601, 6.313}</string>
+						<string>{5.33801, 7.685}</string>
+						<string>{3.181, 8.6653}</string>
+						<string>{-2.70099, 8.6653}</string>
+						<string>{-4.466, 7.4889}</string>
+						<string>{9.84698, 1.80301}</string>
+						<string>{9.259, 3.96}</string>
+					</array>
+					<array>
+						<string>{-8.19101, -7.804}</string>
+						<string>{-6.23001, -9.569}</string>
+						<string>{-9.56299, -4.27499}</string>
+					</array>
+					<array>
+						<string>{-8.97501, 2.39099}</string>
+						<string>{-9.367, 1.019}</string>
+						<string>{-9.56299, -1.334}</string>
+						<string>{-4.466, 7.4889}</string>
+						<string>{-6.23001, 6.313}</string>
+						<string>{-7.995, 4.548}</string>
+					</array>
+					<array>
+						<string>{0.828003, 11.6064}</string>
+						<string>{-0.544006, 11.0182}</string>
+						<string>{-0.936005, 10.8221}</string>
+						<string>{-1.32901, 9.6457}</string>
+						<string>{2.397, 10.2339}</string>
+						<string>{2.20099, 11.6064}</string>
+					</array>
+					<array>
+						<string>{-6.23001, -9.569}</string>
+						<string>{5.33801, 7.685}</string>
+						<string>{3.181, 8.6653}</string>
+						<string>{-1.32901, 9.6457}</string>
+						<string>{-2.70099, 8.6653}</string>
+					</array>
+					<array>
+						<string>{-1.32901, 9.6457}</string>
+						<string>{3.181, 8.6653}</string>
+						<string>{2.397, 10.2339}</string>
+					</array>
+				</array>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsCircle</key>
+				<false/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>Mask</key>
+				<integer>65535</integer>
+				<key>PhysicType</key>
+				<integer>0</integer>
+				<key>Restitution</key>
+				<real>0.20000000298023224</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array>
+					<string>{345.564, 100.178}</string>
+					<string>{345.171, 101.354}</string>
+					<string>{343.799, 102.335}</string>
+					<string>{342.034, 103.511}</string>
+					<string>{340.27, 104.687}</string>
+					<string>{338.505, 106.452}</string>
+					<string>{337.525, 108.609}</string>
+					<string>{337.133, 109.981}</string>
+					<string>{336.937, 112.334}</string>
+					<string>{336.937, 115.275}</string>
+					<string>{338.309, 118.804}</string>
+					<string>{340.27, 120.569}</string>
+					<string>{353.798, 120.765}</string>
+					<string>{355.171, 119.197}</string>
+					<string>{356.543, 116.844}</string>
+					<string>{356.347, 109.197}</string>
+					<string>{355.759, 107.04}</string>
+					<string>{353.406, 104.687}</string>
+					<string>{351.838, 103.315}</string>
+					<string>{349.681, 102.335}</string>
+					<string>{348.897, 100.766}</string>
+					<string>{348.701, 99.3936}</string>
+					<string>{347.328, 99.3936}</string>
+					<string>{345.956, 99.9818}</string>
+				</array>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{337, 100}, {19, 22}}</string>
+				<key>Frame-HD</key>
+				<string>{{337, 100}, {19, 22}}</string>
+				<key>FrameUV</key>
+				<string>{{0.195312, 0.658203}, {0.238281, 0.695312}}</string>
+				<key>Image</key>
+				<string>fleak.png</string>
+				<key>Image-HD</key>
+				<string>fleak.png</string>
+				<key>ImageURL</key>
+				<string>/Users/incisor/Programming/data/Fleak Data/fleak.png</string>
+				<key>ImageURL-HD</key>
+				<string>/Users/incisor/Programming/data/Fleak Data/fleak.png</string>
+				<key>Name</key>
+				<string>fleak</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array>
+					<array>
+						<string>{11.265, -5.22998}</string>
+						<string>{13.18, -3.31598}</string>
+						<string>{12.755, -0.761993}</string>
+						<string>{11.691, 0.72699}</string>
+						<string>{9.138, 1.578}</string>
+					</array>
+					<array>
+						<string>{-10.861, 0.940002}</string>
+						<string>{-10.648, -3.103}</string>
+						<string>{-7.883, -5.22998}</string>
+						<string>{-6.39301, 4.98199}</string>
+						<string>{-8.308, 3.49298}</string>
+					</array>
+					<array>
+						<string>{-7.883, -5.22998}</string>
+						<string>{11.265, -5.22998}</string>
+						<string>{7.00999, 2.42902}</string>
+						<string>{4.883, 4.13098}</string>
+						<string>{2.54201, 5.83301}</string>
+						<string>{-3.84, 6.897}</string>
+						<string>{-5.968, 5.62}</string>
+						<string>{-6.39301, 4.98199}</string>
+					</array>
+					<array>
+						<string>{7.00999, 2.42902}</string>
+						<string>{11.265, -5.22998}</string>
+						<string>{9.138, 1.578}</string>
+					</array>
+					<array>
+						<string>{-7.883, -5.22998}</string>
+						<string>{2.54201, 5.83301}</string>
+						<string>{1.479, 6.897}</string>
+						<string>{0.414993, 7.535}</string>
+						<string>{-1.713, 7.535}</string>
+						<string>{-3.84, 6.897}</string>
+					</array>
+				</array>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsCircle</key>
+				<false/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>Mask</key>
+				<integer>65535</integer>
+				<key>PhysicType</key>
+				<integer>0</integer>
+				<key>Restitution</key>
+				<real>0.20000000298023224</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array>
+					<string>{173.607, 445.018}</string>
+					<string>{171.692, 446.507}</string>
+					<string>{169.139, 449.06}</string>
+					<string>{169.352, 453.103}</string>
+					<string>{172.117, 455.23}</string>
+					<string>{191.265, 455.23}</string>
+					<string>{193.18, 453.316}</string>
+					<string>{192.755, 450.762}</string>
+					<string>{191.691, 449.273}</string>
+					<string>{189.138, 448.422}</string>
+					<string>{187.01, 447.571}</string>
+					<string>{184.883, 445.869}</string>
+					<string>{182.542, 444.167}</string>
+					<string>{181.479, 443.103}</string>
+					<string>{180.415, 442.465}</string>
+					<string>{178.287, 442.465}</string>
+					<string>{176.16, 443.103}</string>
+					<string>{174.032, 444.38}</string>
+				</array>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{166, 443}, {28, 14}}</string>
+				<key>Frame-HD</key>
+				<string>{{166, 443}, {28, 14}}</string>
+				<key>FrameUV</key>
+				<string>{{0.865234, 0.324219}, {0.892578, 0.378906}}</string>
+				<key>Image</key>
+				<string>fleak.png</string>
+				<key>Image-HD</key>
+				<string>fleak.png</string>
+				<key>ImageURL</key>
+				<string>/Users/incisor/Programming/data/Fleak Data/fleak.png</string>
+				<key>ImageURL-HD</key>
+				<string>/Users/incisor/Programming/data/Fleak Data/fleak.png</string>
+				<key>Name</key>
+				<string>boulder</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array>
+					<array>
+						<string>{8.97501, -3.97}</string>
+						<string>{9.367, -2.20599}</string>
+						<string>{7.60199, 4.657}</string>
+						<string>{5.642, 6.813}</string>
+						<string>{-4.358, 7.98999}</string>
+						<string>{-8.67099, 3.284}</string>
+						<string>{6.42599, -7.10699}</string>
+						<string>{8.38699, -5.147}</string>
+					</array>
+					<array>
+						<string>{7.60199, 4.657}</string>
+						<string>{9.367, -2.20599}</string>
+						<string>{9.367, 0.931}</string>
+						<string>{8.77899, 3.088}</string>
+					</array>
+					<array>
+						<string>{-9.259, -1.02901}</string>
+						<string>{-8.67099, -4.362}</string>
+						<string>{-7.88699, -6.323}</string>
+						<string>{-5.75201, -7.118}</string>
+						<string>{6.42599, -7.10699}</string>
+						<string>{4.66101, 7.20599}</string>
+						<string>{-8.67099, 3.284}</string>
+						<string>{-9.259, 1.51999}</string>
+					</array>
+					<array>
+						<string>{5.642, 6.813}</string>
+						<string>{7.60199, 4.657}</string>
+						<string>{7.01401, 6.22501}</string>
+					</array>
+					<array>
+						<string>{-8.67099, 3.284}</string>
+						<string>{-4.358, 7.98999}</string>
+						<string>{-5.73001, 7.20599}</string>
+						<string>{-7.103, 6.02899}</string>
+						<string>{-8.08301, 4.657}</string>
+					</array>
+					<array>
+						<string>{-2.98499, 8.774}</string>
+						<string>{-3.76999, 8.382}</string>
+						<string>{-4.358, 7.98999}</string>
+						<string>{-5.75201, -7.118}</string>
+						<string>{4.66101, 7.20599}</string>
+						<string>{4.073, 8.186}</string>
+						<string>{3.289, 8.578}</string>
+					</array>
+				</array>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsCircle</key>
+				<false/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>Mask</key>
+				<integer>65535</integer>
+				<key>PhysicType</key>
+				<integer>0</integer>
+				<key>Restitution</key>
+				<real>0.20000000298023224</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array>
+					<string>{341.642, 127.51}</string>
+					<string>{340.27, 128.294}</string>
+					<string>{338.897, 129.471}</string>
+					<string>{337.917, 130.843}</string>
+					<string>{337.329, 132.216}</string>
+					<string>{336.741, 133.98}</string>
+					<string>{336.741, 136.529}</string>
+					<string>{337.329, 139.862}</string>
+					<string>{338.113, 141.823}</string>
+					<string>{340.248, 142.618}</string>
+					<string>{352.426, 142.607}</string>
+					<string>{354.387, 140.647}</string>
+					<string>{354.975, 139.47}</string>
+					<string>{355.367, 137.706}</string>
+					<string>{355.367, 134.569}</string>
+					<string>{354.779, 132.412}</string>
+					<string>{353.602, 130.843}</string>
+					<string>{353.014, 129.275}</string>
+					<string>{351.642, 128.687}</string>
+					<string>{350.661, 128.294}</string>
+					<string>{350.073, 127.314}</string>
+					<string>{349.289, 126.922}</string>
+					<string>{343.015, 126.726}</string>
+					<string>{342.23, 127.118}</string>
+				</array>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{337, 127}, {18, 17}}</string>
+				<key>Frame-HD</key>
+				<string>{{337, 127}, {18, 17}}</string>
+				<key>FrameUV</key>
+				<string>{{0.248047, 0.658203}, {0.28125, 0.693359}}</string>
+				<key>Image</key>
+				<string>fleak.png</string>
+				<key>Image-HD</key>
+				<string>fleak.png</string>
+				<key>ImageURL</key>
+				<string>/Users/incisor/Programming/data/Fleak Data/fleak.png</string>
+				<key>ImageURL-HD</key>
+				<string>/Users/incisor/Programming/data/Fleak Data/fleak.png</string>
+				<key>Name</key>
+				<string>prisoner</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array>
+					<array>
+						<string>{-5.25299, 6.95599}</string>
+						<string>{-5.25299, 4.19}</string>
+						<string>{-0.997986, 8.44501}</string>
+						<string>{-3.33899, 10.36}</string>
+						<string>{-4.40201, 10.572}</string>
+					</array>
+					<array>
+						<string>{6.23499, -2.19299}</string>
+						<string>{7.086, 0.147003}</string>
+						<string>{6.448, 2.70001}</string>
+						<string>{5.59698, 3.97699}</string>
+						<string>{2.40601, 5.67902}</string>
+						<string>{-3.97699, -0.916016}</string>
+						<string>{-3.97699, -2.61798}</string>
+						<string>{4.108, -4.95898}</string>
+					</array>
+					<array>
+						<string>{0.490997, -10.703}</string>
+						<string>{6.448, -10.703}</string>
+						<string>{4.32101, -7.72501}</string>
+					</array>
+					<array>
+						<string>{-5.67899, -6.87399}</string>
+						<string>{-3.55099, -8.57599}</string>
+						<string>{-1.42401, -9.00101}</string>
+						<string>{4.108, -4.95898}</string>
+						<string>{-3.97699, -2.61798}</string>
+						<string>{-4.828, -3.25702}</string>
+						<string>{-6.53, -5.17102}</string>
+					</array>
+					<array>
+						<string>{-6.53, -5.17102}</string>
+						<string>{-4.828, -3.25702}</string>
+						<string>{-6.53, -2.83099}</string>
+					</array>
+					<array>
+						<string>{0.490997, -10.703}</string>
+						<string>{4.32101, -7.72501}</string>
+						<string>{4.108, -4.95898}</string>
+						<string>{-3.55099, -8.57599}</string>
+					</array>
+					<array>
+						<string>{-4.61499, 0.997986}</string>
+						<string>{-3.97699, -0.916016}</string>
+						<string>{2.40601, 5.67902}</string>
+						<string>{0.916992, 6.95599}</string>
+						<string>{-0.997986, 8.44501}</string>
+						<string>{-5.25299, 4.19}</string>
+					</array>
+					<array>
+						<string>{0.278015, -9.85199}</string>
+						<string>{4.108, -4.95898}</string>
+						<string>{-1.42401, -9.00101}</string>
+					</array>
+				</array>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsCircle</key>
+				<false/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>Mask</key>
+				<integer>65535</integer>
+				<key>PhysicType</key>
+				<integer>0</integer>
+				<key>Restitution</key>
+				<real>0.20000000298023224</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array>
+					<string>{339.098, 149.428}</string>
+					<string>{338.672, 151.13}</string>
+					<string>{338.247, 153.044}</string>
+					<string>{338.247, 155.81}</string>
+					<string>{338.885, 159.002}</string>
+					<string>{339.523, 160.916}</string>
+					<string>{339.523, 162.618}</string>
+					<string>{338.672, 163.257}</string>
+					<string>{336.97, 162.831}</string>
+					<string>{336.97, 165.171}</string>
+					<string>{337.821, 166.874}</string>
+					<string>{339.949, 168.576}</string>
+					<string>{342.076, 169.001}</string>
+					<string>{343.778, 169.852}</string>
+					<string>{343.991, 170.703}</string>
+					<string>{349.948, 170.703}</string>
+					<string>{347.821, 167.725}</string>
+					<string>{347.608, 164.959}</string>
+					<string>{349.735, 162.193}</string>
+					<string>{350.586, 159.853}</string>
+					<string>{349.948, 157.3}</string>
+					<string>{349.097, 156.023}</string>
+					<string>{345.906, 154.321}</string>
+					<string>{344.417, 153.044}</string>
+					<string>{342.502, 151.555}</string>
+					<string>{340.161, 149.64}</string>
+				</array>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{337, 149}, {13, 22}}</string>
+				<key>Frame-HD</key>
+				<string>{{337, 149}, {13, 22}}</string>
+				<key>FrameUV</key>
+				<string>{{0.291016, 0.658203}, {0.333984, 0.683594}}</string>
+				<key>Image</key>
+				<string>fleak.png</string>
+				<key>Image-HD</key>
+				<string>fleak.png</string>
+				<key>ImageURL</key>
+				<string>/Users/incisor/Programming/data/Fleak Data/fleak.png</string>
+				<key>ImageURL-HD</key>
+				<string>/Users/incisor/Programming/data/Fleak Data/fleak.png</string>
+				<key>Name</key>
+				<string>plant.</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array>
+					<array>
+						<string>{7.789, -0.287994}</string>
+						<string>{8.00101, 0.989014}</string>
+						<string>{6.72501, 2.26501}</string>
+						<string>{3.95901, 3.116}</string>
+						<string>{-2.63699, 3.116}</string>
+						<string>{-7.104, 1.84}</string>
+						<string>{-5.19, -2.203}</string>
+						<string>{5.66101, -3.05402}</string>
+					</array>
+					<array>
+						<string>{-2.63699, 3.116}</string>
+						<string>{3.95901, 3.116}</string>
+						<string>{0.980011, 5.88202}</string>
+						<string>{-0.29599, 6.30798}</string>
+						<string>{-1.147, 5.88202}</string>
+					</array>
+					<array>
+						<string>{5.23499, -6.67102}</string>
+						<string>{5.66101, -3.05402}</string>
+						<string>{2.68201, -6.67102}</string>
+					</array>
+					<array>
+						<string>{-2.211, -6.883}</string>
+						<string>{5.66101, -3.05402}</string>
+						<string>{3.95901, 3.116}</string>
+					</array>
+				</array>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsCircle</key>
+				<false/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>Mask</key>
+				<integer>65535</integer>
+				<key>PhysicType</key>
+				<integer>0</integer>
+				<key>Restitution</key>
+				<real>0.20000000298023224</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array>
+					<string>{194.353, 343.618}</string>
+					<string>{192.863, 346.384}</string>
+					<string>{188.396, 347.66}</string>
+					<string>{190.31, 351.703}</string>
+					<string>{190.949, 355.958}</string>
+					<string>{193.289, 356.383}</string>
+					<string>{198.182, 356.171}</string>
+					<string>{200.735, 356.171}</string>
+					<string>{201.161, 352.554}</string>
+					<string>{203.289, 349.788}</string>
+					<string>{203.501, 348.511}</string>
+					<string>{202.225, 347.235}</string>
+					<string>{199.459, 346.384}</string>
+					<string>{196.48, 343.618}</string>
+					<string>{195.204, 343.192}</string>
+				</array>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{188, 343}, {15, 13}}</string>
+				<key>Frame-HD</key>
+				<string>{{188, 343}, {15, 13}}</string>
+				<key>FrameUV</key>
+				<string>{{0.669922, 0.367188}, {0.695312, 0.396484}}</string>
+				<key>Image</key>
+				<string>fleak.png</string>
+				<key>Image-HD</key>
+				<string>fleak.png</string>
+				<key>ImageURL</key>
+				<string>/Users/incisor/Programming/data/Fleak Data/fleak.png</string>
+				<key>ImageURL-HD</key>
+				<string>/Users/incisor/Programming/data/Fleak Data/fleak.png</string>
+				<key>Name</key>
+				<string>star.</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+	</array>
+	<key>ScenePreference</key>
+	<dict>
+		<key>BackgroundColor</key>
+		<string>{{0.8, 0.8}, {0.8, 1}}</string>
+		<key>GridSize</key>
+		<integer>32</integer>
+	</dict>
+	<key>Version</key>
+	<string>1.6.7</string>
+</dict>
+</plist>
